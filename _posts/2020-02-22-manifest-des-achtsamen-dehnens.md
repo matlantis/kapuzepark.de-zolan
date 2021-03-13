@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Manifest des achtsames Dehnen
+title:  Manifest des achtsamen Dehnens
 image:  stretching.jpg
 tags:   Artist Yogi
 ---
