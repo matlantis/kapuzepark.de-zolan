@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>trikstik</title>
+    <!-- <link rel="stylesheet" href="layout.css" -->
+    <!-- <link rel="stylesheet" href="animate.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional Bootstrap theme -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
+    <style>
+      body {
+       // background: #85bef3;
+      }
+
+      #header {
+        text-align: center;
+      }
+
+      .container-fluid {
+        padding-right: 0px;
+        padding-left: 0px;
+      }
+
+      .nav, .navbar .nav > li {
+        float:none;
+        display:inline-block;
+      }
+
+     .navbar-nav>li {
+       float: left;
+     }
+
+     .row {
+       margin-left: 0 !important;
+       margin-right: 0 !important;
+     }
+
+     [class*="col-"] {
+       padding-left: 0 ;
+       padding-right: 0 ;
+     }
+     .container-fixed {
+       margin: 0 auto;
+       max-width: 600px;
+     }
+
+     .small-wrapper {
+       max-width: 600px;
+       margin-left: auto;
+       margin-right: auto;
+       margin-top: 4rem;
+       margin-bottom: 4rem;
+     }
+
+     .faq {
+       margin-bottom: 2rem;
+     }
+
+     .faq-question {
+       font-weight: bold;
+     }
+
+     .left-col-padded {
+       padding-right: 2rem;
+     }
+
+     .right-col-padded {
+       padding-left: 2rem;
+     }
+
+     #header {
+       margin-bottom: -20%;
+     }
+
+     .text-panel {
+       margin: 4rem;
+     }
+
+     .body-dark {
+       background: black;
+       color: #b6b6b6;
+     }
+
+     .body-dark a, .body-dark a:visited {
+       color: white;
+     }
+
+     #settings-panel a {
+       color: #F0F0F0;
+     }
+
+     .body-dark #settings-panel a {
+         color: #333;
+     }
+
+     .body-dark .nav>li>a:focus, .body-dark .nav>li>a:hover {
+       background-color: #202020;
+     }
+
+     .body-bright {
+       background: white;
+       color: black;
+     }
+
+     #settings-panel {
+       position: fixed;
+       top: 50px;
+       right: 0rem;
+       z-index: 1000;
+     }
+
+     #settings-panel a {
+       text-decoration: none;
+     }
+
+     a, a:visited {
+       color: #404040;
+     }
+
+     ul.nav {
+       margin-bottom: -5px;
+     }
+
+     .text-de {
+         display: none;
+     }
+
+     .text-en {
+     }
+
+     .image-dark {
+         display: none;
+     }
+
+     .image-light {
+     }
+
+     #dots-table td {
+         padding: 20px;
+     }
+
+     #dots-table img {
+         padding: 20px;
+         background-color: #909090;
+     }
+    </style>
+  </head>
+  <body class="">
+    <div id="settings-panel">
+      <ul style="position: absolute; top: 12px; left: 60px; text-align: center;" class="list-unstyled">
+        <li class="text-de"><a id="button-en" href="#">en</a></li>
+        <li class="text-en"><a id="button-de" href="#">de</a></li>
+        <li class="image-light"><a id="button-dark" href="#">dark</a></li>
+        <li class="image-dark"><a id="button-light" href="#">light</a></li>
+      </ul>
+      <div class="image-light"><img src="blopp_light.png" width="100"></div>
+      <div class="image-dark"><img src="blopp_dark.png" width="100"></div>
+    </div>
+    <div class="container-fluid">
+      <div id="header">
+        <img alt="trikstik logo light" src="logo_table_light_02.jpg" class="image-light img-responsive"/>
+        <img alt="trikstik logo light" src="logo_table_dark_01.jpg" class="image-dark img-responsive"/>
+      </div>
+      <nav class="text-center">
+        <ul class="nav navbar-nav">
+          <li><a data-toggle="tab" href="#trikstik">trikstik</a></li>
+          <li><a data-toggle="tab" href="#shop">Shop</a></li>
+          <!-- <li><a>Impressions</a></li>
+               <li><a>Tutorials</a></li> -->
+          <!-- <li><a>History</a></li> -->
+          <li><a data-toggle="tab" href="#questions">FAQ</a></li>
+          <li><a data-toggle="tab" href="#contact">
+            <span class="text-de">Kontakt</span>
+            <span class="text-en">Contact</span>
+          </a></li>
+        </ul>
+      </nav>
+
+      <div class="tab-content">
+        <div id="trikstik" class="tab-pane fade in active">
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik demo martin" src="trik1_02.jpg" class="img-responsive"/>
+            </div>
+            <div class="col-xs-12">
+              <div class="text-panel text-de">
+                <p class="lead">
+                  trikstik ist ein Akrobatik-Stab oder einfach Akrostab.
+                </p>
+                <p>
+                  Ein flexibler Stab mit rutschfesten Füßen wird zum buchstäblichen Dreh- und Angelpunkt für deine Stunts.
+                </p>
+              </div>
+              <div class="text-panel text-en">
+                <p class="lead">
+                  trikstik is an acrobatic staff, or more simply an Acrostaff.
+                </p>
+                <p>
+                  A flexible staff with non-slip feet becomes a base upon which to spin and launch for your stunts.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik spiral" src="trik2_02.jpg" class="img-responsive"/>
+            </div>
+            <div class="col-xs-12">
+              <div class="text-panel text-de">
+                <p class="lead">
+                  Verbinde Kraft und Geschicklichkeit zu einer artistischen Disziplin voller Dynamik und Eleganz.
+                </p>
+                <p>
+                  Ein Akrostab fordert von dir Balance, Kraft, Flexibilität und etwas Mut. Und im Gegenzug macht es jede Menge Spaß!
+                </p>
+              </div>
+              <div class="text-panel text-en">
+                <p class="lead">
+                  Combine strength and skill into an artistic discipline of dynamic movement and elegance.
+                </p>
+                <p>
+                  An Acrostaff is a challenge for your balance, strength, flexibility and for your courage. And in return it is great fun too!
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik demo oisin" src="trik3_02.jpg" class="img-responsive"/>
+            </div>
+          </div>
+        </div>
+        <div id="shop" class="tab-pane fade">
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik collection" src="shop1_01.jpg" class="img-responsive"/>
+            </div>
+            <div class="col-xs-12">
+              <div class="text-panel text-de">
+                <p class="lead">
+                  trikstik steht Dir in zwei Längen zur Verfügung: 1,50m oder 1,80m.
+                </p>
+                <p>
+                  Wie lang ist der richtige trikstik für Dich?
+                </p>
+                <p>
+                  Das hängt davon ab, was du tun willst. Ein kurzer Stab ist leichter zu handhaben und gibt dir mehr Möglichkeiten. Ein langer Stab gibt dir mehr Energie und hebt dich höher. Und größere Menschen tendieren selbstverständlich eher zur längeren Version.
+                </p>
+                <p class="lead">
+                  trikstik gibt es in vielen Farbkombinationen.
+                </p>
+                <p>
+                  Der Stab ist entweder light oder dark. Die Bälle gibt es in schwarz, blau, hellblau, türkis, violett, pink, rot, orange, neongelb, neongrün und weiß.
+                  Beides kann frei kombiniert werden!
+                </p>
+                <p class="lead">
+                    Was kostet mich ein trikstik?
+                </p>
+                <p>
+                    kurzer Stab 120€, langer Stab 140€.
+                </p>
+                <p>
+                    Porto und Verpackung kosten 20€ in Deutschland. Internationaler Versand auf Anfrage.
+                </p>
+                <p class="lead">
+                    Her damit!
+                </p>
+                <p>
+                    Bestelle bei uns per email an <a href="mailto:mail@trikstik.de">mail@trikstik.de</a>. Schreibe uns deine Adresse, deinen Farbwunsch (Kugel- und Stabfarbe!) und welche Länge du möchtest. Du erhältst dann eine Antwort von uns mit allen weiteren Infos.
+                </p>
+                <p class="lead">
+                    Du kannst auch ein paar zusätzliche Kugeln bekommen, wenn du mal Lust auf eine andere Farbe hast.
+                </p>
+                <p>
+                    Die Kugeln am Ende des trikstik sind austauschbar. Ein paar (zwei) Kugeln bekommst du für 10€ plus 4€ für den Versand (falls du nicht mit einem trikstik zusammen bestellst). Schreib uns einfach!
+                </p>
+              </div>
+              <div class="text-panel text-en">
+                <p class="lead">
+                  trikstik is available in two lengths: 150 cm or 180cm
+                </p>
+                <p>
+                  Which is the right length for me?
+                </p>
+                <p>
+                  That depends on what you want to do with it. The shorter staffs are a bit lighter and offers more possibilities. The longer version gives you more energy and lifts you higher. And of course taller people tend to the longer one.
+                </p>
+                <p class="lead">
+                  trikstik is available in many colour combinations.
+                </p>
+                <p>
+                  The staff itself is either light or dark. The following colours are available for the spheres at the ends: black, blue, baby blue, turquoise, purple, pink, red, orange, neon yellow, neon green and white.
+                  You decide which combination suits you best.
+                </p>
+                <p class="lead">
+                    How much will a trikstik cost me?
+                </p>
+                <p>
+                    120€ for the short version, 140€ for the long version.
+                </p>
+                <p>
+                    Shipping and packaging cost 20€ within Germany. International shipping on request.
+                </p>
+                <p class="lead">
+                    I'll take one!
+                </p>
+                <p>
+                    Order by sending an email to: <a href="mailto:mail@trikstik.de">mail@trikstik.de</a>. Be sure to include your postal address, you colour combination (sphere and staff colour!) and your choice of length. You will receive an answer with all further information from us regarding your order.
+                </p>
+                <p class="lead">
+                    You can have an additional pair of spheres if you are up for a different colour.
+                </p>
+                <p>
+                    The spheres can easily be exchanged. Get a new pair for 10€ plus 4€ for the shipping (if you don't order together with a trikstik). Just write an email!
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik 3 Stiks" src="shop2_03.jpg" class="img-responsive"/>
+            </div>
+          </div>
+        </div>
+        <div id="impressions" class="tab-pane fade">Impressions</div>
+        <div id="tutorials" class="tab-pane fade">Tutorials</div>
+        <div id="questions" class="tab-pane fade">
+          <div class="row">
+            <div class="col-xs-12">
+              <img alt="trikstik workshop" src="questions_02.jpg" class="img-responsive"/>
+            </div>
+          </div>
+          <div class="small-wrapper text-de">
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Ist ein trikstik für Kinder geeignet?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Ja, unserer Erfahrung nach können sich aktive Kinder ab 10 Jahren für einen trikstik begeistern und erlernen verblüffend schnell damit umzugehen.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Woraus ist der Stab gemacht und wie schwer ist er?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Der Stab besteht aus Glasfaser, hat einen Silikongriff und Anti-Rutsch-Kugeln and den Enden. Ein kurzer Stab wiegt 1,5kg und ein langer 2kg.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Geht der nicht kaputt, wenn man da draufspringt?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Nein.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Rutscht der nicht weg, wenn er schief steht?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                <p>
+                  Das hängt vom Untergrund ab. Auf trockenem und sauberem Boden rutscht der trikstik auch bei 45° Schräglage nicht ab.
+                </p>
+                <p>
+                  trikstik ist sehr gut geeignet in einer Turnhalle, bei Dir zu Hause (solange du gelegentlich sauber machst), auf Asphalt oder Steinboden (solange trocken und ohne Steinchen) und auf einer Tanzbühne.
+                </p>
+                <p>
+                  Vorsicht ist geboten auf der trockenen Wiese und auf trockenem Lehmboden. Auf jeden Fall ungeeignet ist eine feuchte Wiese, sandiger oder öliger Untergrund.
+                </p>
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Kann man den trikstik als auch Kontaktstab verwenden?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Ja, klar. Der trikstik ist als Kontaktstab sehr gut geeignet. Wenn Kontaktjonglage für dich wichtig ist, solltest du einen kurzen Stab nehmen, da sie "gerader" sind (auch das ist allerdings Geschmackssache, da der lange Stab dafür besser balanciert).
+              </div>
+            </div>
+            <div class="row faq">
+                <div class="col-xs-6 faq-question left-col-padded">
+                    Kann ich den auch in einer individuellen Größe bekommen?
+                </div>
+                <div class="col-xs-6 faq-answer right-col-padded">
+                    Da der Aufwand zum Bauen der Stäbe hoch ist, können wir euch keine Extrawürschte ohne Aufpreis anbieten. Aber mit ein wenig handwerklichem Geschick und einer Säge kannst du dir den trikstik auf deine Lieblingslänge zurechtkürzen.
+                </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Macht ihr die auch aus Carbon-Rohren?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Vielleicht. Noch nicht. Wir sind am testen, brauchen aber noch mehr Erfahrungswerte. Preislich wird ein Carbon-Stab jedoch deutlich über den Glasfaserstäben liegen.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Welches sind eure Lieblingsfarben?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                <p>Oisín: Crystal (light-turquoise)</p>
+                <p>Martin: Babe (light-pink)</p>
+              </div>
+            </div>
+          </div>
+          <div class="small-wrapper text-en">
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Is a trikstik suitable for kids?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                It is definitely. Our experience showed us that agile children may get into the trikstik from the age of 10. They learn to master it surprisingly fast.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                What's it made from and how heavy are they?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                The staff has a fiberglass core, silicone grip, and non-slip spherical feet at the ends. The short version weighs 1.5 kilos, the long weighs 2 kilos.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Will it break if I jump on it?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                No.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Will it slip if it is at an angle?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                <p>
+                  That depends on the surface underneath. On a clean and dry surface, it will not slip even at an angle of 45°.
+                </p>
+                <p>
+                  trikstik is perfect for using in sports halls, at home (as long as you tidy up sometimes), on asphalt and stone surfaces (as long as it is dry and there are no small pebbles) and on dance/stage floors.
+                </p>
+                <p>
+                  You should be careful whilst using it on grassy and earthy areas even if they are dry. It is definitely not a good idea to use it on wet grass and sandy or oily surfaces.
+                </p>
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Can I also use trikstik for contact staff?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Of course. It is most certainly suitable for contact staff. If contact juggling is important for you, then one of the shorter staffs is recommended, as they are even straighter (though that is a matter of taste as the longer staffs are better balanced).
+              </div>
+            </div>
+            <div class="row faq">
+                <div class="col-xs-6 faq-question left-col-padded">
+                    Is it possible to get it in a custom size?
+                </div>
+                <div class="col-xs-6 faq-answer right-col-padded">
+                    As the process of creating the trikstiks is intensive we can not offer personalized ones without an extra fee. But the staff can be shortened by yourself, if you have some basic mechanical skills and a saw.
+                </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                Do you make staffs from carbon fibre?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                Maybe, but not yet. We are testing various other options but still need more experience. The prices of the carbon staffs will be a lot higher than fiberglass though.
+              </div>
+            </div>
+            <div class="row faq">
+              <div class="col-xs-6 faq-question left-col-padded">
+                What are your favorite colours?
+              </div>
+              <div class="col-xs-6 faq-answer right-col-padded">
+                <p>Oisín: Crystal (light and turquoise)</p>
+                <p>Martin: Babe (light and pink)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="contact" class="tab-pane fade">
+          <div class="small-wrapper">
+            <div class="row">
+              <div class="col-xs-6 left-col-padded">
+                <img alt="trikstik plakat" src="contact1_02.jpg" class="img-responsive"/>
+              </div>
+              <div class="col-xs-6 right-col-padded">
+                <p>
+                  Martin Puttke<br>
+                  Torgauer Str. 14<br>
+                  01127 Dresden<br>
+                </p>
+                <p>
+                  Kontakt:<br>
+                  Telefon: +49 (0) 179 9113709 <br>
+                  E-Mail: mail@trikstik.de
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="history" class="tab-pane fade">History</div>
+      </div>
+
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <noscript>
+      <div id="javascript_disabled_warning" class="clearfix">
+        <strong>
+          Bitte aktiviere Javascript, damit diese Seite richtig funktioniert.
+        </strong>
+      </div>
+    </noscript>
+  </body>
+
+  <script>
+   $(document).ready(function(){
+
+     /* $('a[data-toggle="tab"]').on('show.bs.tab', function (e) {
+      *   var url = new String(e.target);
+      *   var pieces = url.split('#');
+      *   var seq=$(this).attr('data-seq');
+      *   var tab=$(this).attr('href');
+      *   //$('.tab-pane.active').addClass('animated slideOutLeft');
+      *   $(tab).addClass('animated slideInRight');
+      * });*/
+
+     $("body").on("click", "#button-dark", function(e) {
+       e.preventDefault();
+       $("body").toggleClass("body-dark");
+       $(".image-light").hide();
+       $(".image-dark").show();
+     });
+     $("body").on("click", "#button-light", function(e) {
+       e.preventDefault();
+       $("body").toggleClass("body-dark");
+       $(".image-light").show();
+       $(".image-dark").hide();
+     });
+     $("body").on("click", "#button-en", function(e) {
+       e.preventDefault();
+       $(".text-de").hide();
+       $(".text-en").show();
+     });
+     $("body").on("click", "#button-de", function(e) {
+       e.preventDefault();
+       $(".text-en").hide();
+       $(".text-de").show();
+     });
+
+    })
+
+  </script>
+
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-53249858-2', 'auto');
+   ga('send', 'pageview');
+
+  </script>
+</html>
