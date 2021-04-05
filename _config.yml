@@ -23,6 +23,8 @@ defaults:
 
 include:
   - _pages
+  - '.htaccess'
+  - '.htpasswd'
 
 
 # Tags

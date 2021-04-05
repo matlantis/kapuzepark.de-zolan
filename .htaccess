@@ -1,0 +1,5 @@
+order allow,deny
+allow from all
+Authtype Basic
+AuthName "kapuzeprivat"
+AuthUserFile /home/sites/site100019350/web/kapuzepark.de/.htpasswd
