@@ -3,6 +3,7 @@ layout: post
 title:  Manifest des achtsamen Dehnens
 image:  stretching.jpg
 tags:   Artist Yogi
+toc:    true
 ---
 
 Ich  möchte hier meine Methode des Dehnens - oder besser - zur Verbesserung der Beweglichkeit beschreiben. Sie fußt auf den Erfahrungen, die ich im Wesentlichen im letzten Jahr gesammelt habe und auf dem neuen Verständnis, das ich von den Vorgängen beim Dehnen gewonnen habe. Dieses Verständnis hat es mir ermöglicht, eine neue, effiziente Vorgehensweise zur Verbesserung meiner Beweglichkeit zu entwickeln. Sie ist nur durch meine eigene Erfahrung belegt. Dieser Text ist eine Sammlung von Gedanken zum achtsamen Dehnen. Er enthält jedoch keine Anleitung.
