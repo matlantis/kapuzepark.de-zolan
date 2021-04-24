@@ -163,6 +163,12 @@ Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es we
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/jellyfish_martin_360x202.mp4" playsinline> </video>
 
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/crouch_jellyfish_martin_360x202.mp4" playsinline> </video>
+
+### Känguruh
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/backward_kangaroo_martin_360x202.mp4" playsinline> </video>
+
 ### Frosch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/frozen_frog_martin_360x202.mp4" playsinline> </video>
@@ -177,3 +183,44 @@ Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es we
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/piggyback_annica_360x202.mp4" playsinline> </video> -->
 
+### Artist Series
+
+### Ash Walk
+
+<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/ash Walk_martin_360x202.mp4" playsinline> </video> -->
+
+### Chamäleon
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/chameleon_annica_360x202.mp4" playsinline> </video>
+
+### Krokodil
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/croc_martin_360x202.mp4" playsinline> </video>
+
+### Tanzender Mönch
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dancing_monk_martin_360x202.mp4" playsinline> </video>
+
+### Pistol Walk
+
+<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/pistol Walk_martin_360x202.mp4" playsinline> </video> -->
+
+### Hase
+
+<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/rabbit_martin_360x202.mp4" playsinline> </video> -->
+
+### Seelöwe
+
+<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/sea Lion_martin_360x202.mp4" playsinline> </video> -->
+
+### Spinne
+
+<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/spider_martin_360x202.mp4" playsinline> </video> -->
+
+### Brücke
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/bridge_maxi_360x202.mp4" playsinline> </video>
+
+### Wurm
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/worm_martin_360x202.mp4" playsinline> </video>
