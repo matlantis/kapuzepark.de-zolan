@@ -11,7 +11,7 @@ Ich  möchte hier meine Methode des Dehnens - oder besser - zur Verbesserung der
 
 Als erstes sollen ein paar Begriffe geklärt werden.
 
-Unter **Dehnen** wird eine Methode verstanden, mit deren Hilfe, die Beweglichkeit erweitert werden soll. Dadurch grenzt es sich ab vom **Lockern**, welches dazu dient, den Muskeltonus nach Aktivität wieder zu senken, um Verspannungen vorzubeugen. Lockern ist Teil des achtsamen Dehnens, daher gibt es dazu ein eigenes Kapitel.
+Unter **Dehnen** wird eine Methode verstanden, mit deren Hilfe, die Beweglichkeit erweitert werden soll. Dadurch grenzt es sich ab vom **Lockern**, welches dazu dient, den Muskeltonus nach Aktivität wieder zu senken, um Verspannungen vorzubeugen und die Durchblutung zu verbessern. Lockern ist Teil des achtsamen Dehnens, daher gibt es dazu ein eigenes Kapitel.
 
 Als **klassisches Dehnen** wird die Methode bezeichnet, bei der der Muskel durch Zugkraft *verlängert* wird. Meine Methode wird als **achtsames Dehnen** bezeichnet.
 
@@ -19,19 +19,19 @@ Einige Sportler verwenden **federndes Dehnen** zur Aufwärmung vor dem Sport. Du
 
 ## In aller Kürze
 
-Hier ein kleiner Überblick zu meiner Methode. Als erstes wird als Ursache für fehlende Beweglichkeit nicht der Muskel, sondern das Nervensystem erkannt, sozusagen eine Fehlsteuerung des Muskels. Um das Problem anzugehen wird die Methode der Achtsamkeit verwendet, indem die muskulären Vorgänge in unserem Körper beim Dehnen genauestens beobachtet und anschließend kontrolliert werden sollen. Um die gewonnene bewusste Flexibilität jedoch in aktive unwillkürliche Beweglichkeit umzusetzen, ist ein weiterer Schritt notwendig, der dem eintrainieren einer neuen Bewegung gleicht.
+Hier ein kleiner Überblick zu meiner Methode. Als erstes wird als Ursache für fehlende Beweglichkeit nicht der Muskel, sondern das Nervensystem erkannt, sozusagen eine Fehlsteuerung des Muskels. Um das Problem anzugehen wird die Methode der Achtsamkeit verwendet, indem die muskulären Vorgänge in unserem Körper beim Dehnen genauestens beobachtet und anschließend kontrolliert werden sollen. Um die gewonnene bewusste Flexibilität jedoch in aktive unwillkürliche Beweglichkeit umzusetzen, ist ein weiterer Schritt notwendig, der dem Eintrainieren einer neuen Bewegung gleicht.
 
-Als Nebeneffekt dieser Vorgehensweise entwickelt der Übende eine hohe Körperkontrolle, die ihm auch anderen Belangen zugute kommen kann.
+Als Nebeneffekt dieser Vorgehensweise entwickelt der Übende eine hohe Körperwahrnehmung (bewusste Propriozeption) und Körperkontrolle, die ihm auch anderen Belangen zugute kommen kann.
 
 ## Die Funktionsweise des Muskels ##
 
-Das Verständnis meiner Methode setzt ein bestimmte Vorstellung von der Funktionsweise der Muskulatur voraus, die ich hier erläutern möchte. Inwieweit diese Vorstellung korrekt ist, müsste mal mit einem Sportwissenschaftler oder Mediziner besprochen werden.
+Das Verständnis des achtsamen Dehnens setzt ein bestimmte Vorstellung von der Funktionsweise der Muskulatur voraus, die ich hier erläutern möchte. Inwieweit diese Vorstellung korrekt ist, müsste mal mit einem Sportwissenschaftler oder Mediziner besprochen werden.
 
 Der Muskel besitzt zwei verschiedene Methoden der Anspannung, und zwar eine **isotonische**, bei der sich die Länge des Muskels verkürzt, und eine **isometrische**, bei der die Länge konstant bleibt, der Muskel jedoch fest wird. Der Zustand eines Muskeln wird also durch dessen Länge und dessen Tonus beschrieben.
 
-Unsere Gelenke werden durch die Muskeln betrieben: im vereinfachten Fall je ein Muskel auf jeder Seite des Gelenks. Wird das Gelenk geöffnet, verkürzt sich der eine Muskel, während sich der andere, der **Antagonist** verlängert.
+Unsere Gelenke werden durch die Muskeln betrieben: im vereinfachten Fall je ein Muskel auf jeder Seite des Gelenks. Wird das Gelenk geöffnet oder geschlossen, verkürzt sich der Muskel auf der einen Seite, der **Agonist**, während sich der andere, der **Antagonist**, verlängert.
 
-Unsere Gelenke würde ohne das es umgebende Gewebe auseinanderfallen. Das wird einerseits durch die Muskeln verhindert sowie durch die Bänder, die das Gelenk auch dann noch zusammenhalten, wenn die Muskeln aus irgendeinem Grund ausfallen. Das tritt beispielsweise im Schlaf oder bei Bewusstlosigkeit oder aber bei schneller Krafteinwirkung in Folge eines Unfalls ein, wenn der Tonus des Muskels zu niedrig ist und die Reaktionszeit zur Erhöhung des Muskels zu lang. Da Bänder bei Weitem nicht so stabil wie unsere Muskeln sind, kommt es dabei häufig zu einer Verletzung der Bänder.
+Unsere Gelenke würden ohne das sie umgebende Gewebe auseinanderfallen. Das wird einerseits durch die Muskeln verhindert sowie durch die Bänder, die das Gelenk auch dann noch zusammenhalten, wenn die Muskeln aus irgendeinem Grund ausfallen. Das tritt beispielsweise im Schlaf oder bei Bewusstlosigkeit oder aber bei schneller Krafteinwirkung in Folge eines Unfalls ein, wenn der Tonus des Muskels zu niedrig ist und die Reaktionszeit zur Erhöhung des Muskels zu lang. Da Bänder im Allgemeinen bei Weitem nicht so stabil wie unsere Muskeln sind, kommt es dabei häufig zu einer Verletzung der Bänder.
 
 Da die Muskeln unser Gelenke also zusammenhalten müssen, haben sie einerseits einen **Ruhetonus**, eine Mindest-Anspannung, die auch ohne weitere Anforderung an den Muskel aufrecht erhalten wird. Wenn wir schlafen, ist dieser Ruhetonus herabgesetzt, wenn wir aktiv werden erhöht unser Nervensystem auch den Ruhetonus der Muskulatur, da die Wahrscheinlichkeit von Verletzungen steigt. Durch Lockern der Muskulatur kann der Ruhetonus nach dem Training wird herabgesetzt werden, um Verspannungen vorzubeugen.
 
@@ -39,7 +39,7 @@ Außerdem besitzen unsere Muskeln einen Reflex (der bestimmt einen Namen hat), d
 
 ## Ursache für fehlende Beweglichkeit ##
 
-Wir sind es gewohnt, dass wir unsere Muskulatur bewusst steuern können. Sowohl Anspannen als auch Entspannen und sowohl isotonisch als auch isometrisch funktiert üblicherweise bewusst. Der oben erwähnte Schutzreflex ist jedoch unwillkürlich, auch wenn wir das nicht spüren.
+Wir sind es gewohnt, dass wir unsere Muskulatur bewusst steuern können. Sowohl Anspannen als auch Entspannen und sowohl isotonisch als auch isometrisch funktioniert üblicherweise bewusst. Der oben erwähnte Schutzreflex ist jedoch unwillkürlich, auch wenn wir das nicht spüren.
 
 Wenn beim Öffnen des Gelenks die unbewusste Tonuserhöhung des Muskels bei einer Länge einsetzt, in der das Gelenk noch nicht die von uns gewünschte Öffnung besitzt, kommt die bewusste Bewegung zum stehen. Wir sagen dann, wir sind nicht beweglich genug. Um also unsere Beweglichkeit zu erhöhen müssen wir diesen Paniklängenreflex so verändern, dass er uns in Zukunft mehr Bewegungsspielraum gibt.
 
@@ -114,7 +114,7 @@ Sehr problematisch ist das Dehnen von Bändern und Sehnen. Dehnt man sie führt 
 
 ## Dehngefühl ##
 
-Die meisten kennen das typische **Dehngefühl** im Muskel, das entsteht, wenn der Muskel in die Länge gezogen wird. Es ist nicht unangehm, jedoch leicht schmerzhaft. Im klassischen Dehnen wird es als gutes Zeichen verstanden, da ja offensichtlich *der Muskel gedehnt* wird. Wenn man gelernt hat, seinen Muskel beim Dehnen zu entspannen, stellt man jedoch fest, dass auch das Dehngefühl verschwindet. Dehngefühl ist also ein Zeichen dafür, dass man seinen Muskel noch nicht ausreichend entspannt. Das Dehngefühl liefert uns allerdings ein gutes Mittel, um den zu entspannenden Muskel zu lokalisieren. 
+Die meisten kennen das typische **Dehngefühl** im Muskel, das entsteht, wenn der Muskel in die Länge gezogen wird. Es ist nicht unangehm, jedoch leicht schmerzhaft. Im klassischen Dehnen wird es als gutes Zeichen verstanden, da ja offensichtlich *der Muskel gedehnt* wird (*es zieht beim Dehnen*). Wenn man gelernt hat, seinen Muskel beim Dehnen zu entspannen, stellt man jedoch fest, dass auch das Dehngefühl verschwindet. Dehngefühl ist also ein Zeichen dafür, dass man seinen Muskel noch nicht ausreichend entspannt. Das Dehngefühl liefert uns allerdings ein gutes Mittel, um den zu entspannenden Muskel zu lokalisieren. 
 
 In manchen Fällen lässt sich kein Dehngefühl herbeiführen (Schulteröffnung). Der Übende kann dann leicht dem Irrtum verfallen, seine Skelettanatomie beschränke seine Beweglichkeit. Die Ursache ist eine andere: Das Dehngefühl entsteht erst dann, wenn der Muskel versucht, durch Tonuserhöhung seine Länge beizubehalten, die von außen einwirkende Kraft jedoch groß genug ist, dass der Muskel erstes ein Warnsignal an das Gehirn sendet. Ist die beteiligte Muskulatur jedoch sehr gut trainiert, kann das Dehngefühl daher ausbleiben. In diesem Fall muss man ohne diesen Wegweiser auskommen.
 
