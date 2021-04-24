@@ -1,3 +1,4 @@
+
 .search {
   position: fixed;
   top: 0;
@@ -51,9 +52,9 @@
     padding: 20px 20px 20px 30px;
     letter-spacing: 0.5px;
     border-radius: 30px;
-    border: 1px solid #f8f8f8;
+    border: 1px solid $search-bright-color-1;
     color: $dark;
-    background: #f8f8f8;
+    background: $search-bright-color-1;
     &::placeholder {
       letter-spacing: 0.5px;
       color: rgba($dark, 0.7);
@@ -74,10 +75,10 @@
     padding-left: 10px;
     padding-bottom: 10px;
     font-weight: 700;
-    border-bottom: 1px solid #f5efef;
+    border-bottom: 1px solid $search-bright-color-2;
     &:first-child {
       padding-top: 20px;
-      border-top: 1px solid #f5efef;
+      border-top: 1px solid $search-bright-color-2;
     }
   }
 
@@ -102,7 +103,7 @@
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 0.5px;
-    border-top: 1px solid #f5efef;
-    border-bottom: 1px solid #f5efef;
+    border-top: 1px solid $search-bright-color-2;
+    border-bottom: 1px solid $search-bright-color-2;
   }
 }
