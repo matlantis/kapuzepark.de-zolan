@@ -28,8 +28,30 @@ Animal Walks können als Workout genutzt werden, bei dem Kraft und Ausdauer trai
 
 Das Konzept darf jedoch auch noch weiter aufgefasst werden. Wenn du die Walks anstrengend findest, kannst du sie als Krafttraining ansehen. Die andere Möglichkeit ist es, zu lernen, die Bewegung so effizient auszuführen, dass sie dir irgendwann leicht fällt. Das ist Bewegungsschule. Der Unterschied liegt in der Herangehensweise. Bewegungsschule erfordert hohe geistige Aufmerksamkeit, detailiertes Beobachten und neugieriges Experimentieren. Hohes Tempo und wenige Pausen scheinen auf den ersten Blick gut für ein effektives Krafttraining zu sein, sind aber kontraproduktiv wenn du deine Mobilität schulen willst. Wenn dein Geist mit Durchhalten beschäftigt ist, wird es dir schwer fallen, dich auf die Details deiner Bewegung zu konzentrieren.
 
+## Intuitiv oder Bewusst
+
+Auf den ersten Blick wirken viele Animal Walks simpel und du wirst glauben sie problemlos nachmachen zu können und in den meisten Fällen genügt tatsächlich kurzes Beobachten, um den Walk nachmachen zu können. Wenn man sich jedoch vergegenwärtigt, dass selbst statische Positionen, wie sie im Yoga vorkommen äußerst komplex sind und Bewegungen im Allgemeinen um einiges komplexer sind als statische Positionen, erkennt man, dass für eine gute Ausführung viele Details geklärt werden müssen.
+
+Die Frage ist also, wie theoretisch du an die Animal Walks herangehen solltest. Meine Antwort dazu ist naheliegend. Übe die Animal Walks erst einmal ohne Theorie. Schau dir die Bewegung an und lies dir den Text dazu durch, der ein paar grundlegende Bemerkungen enthält, um Fehler zu vermeiden. Dann versuche sie nachzumachen und vertrau deiner Motorik dass sie die Bewegung jedesmal, wenn du sie machst, etwas geschmeidiger und effizienter ausführt. Je mehr Sicherheit du in der Bewegung gefunden hast, desto mehr kannst du sie dir bewusst machen und an den Details arbeiten. 
+
+## Handgelenksposition ##
+
+Bei vielen Animal Walks übertragen unsere Hände einen großen Teil des Körpergewichts auf den Boden. Dabei werden die Handgelenke vor allem dann stark strapaziert, wenn sie stark abgewinkelt sind. Zum ihrem Schutz sollten sie daher vor jedem Training angewärmt werden.
+
+Du kannst aber auch durch eine bewusste Handposition den Druck auf dein Handgelenk reduzieren. Die Technik dazu wird sowohl beim Handstandtraining als auch beim Yoga angewendet. Das Gewicht liegt dabei im Bereich der Fingerballen, vor allem der Daumen- und Zeigefinger-Basis, während die Handfläche und insbesondere die Handwurzel vom Boden weggewölbt wird. Du kannst dir vorstellen, du hättest an deiner Handwurzel, direkt neben deinem Daumenballen, eine Splitter in der Haut oder eine empfindliche Stelle, die du beim Aufsetzen schützen musst und stattdessen den Zeigefinger- und Daumenballen in den Boden presst. Auf diese Weise wird der Winkel im Handgelenk reduziert.
 
 ## Variationen ##
+
+Die Welt der Animal Walks ist gewaltig, die Anzahl der denkbaren Bewegungen unendlich. Um neue Bewegungen zu kreieren genügt es manchmal, bekannte Bewegungen durch grundlegende Prinzipien abzuwandeln. Hier ein paar Beispiele:
+
+* Führe die Bewegung rückwärts aus
+* Führe die Bewegung in zeitlupe aus
+
+Darüber hinaus bietet natürlich jeder Walk seine ihm eigenen Möglichkeiten der Abwandlung.
+
+### Subitle Veränderungen ###
+
+Im Gegensatz zu den Variationen, die von außen erkennbar sind, weil sie die Form des Walks maßgeblich verändern, stehen subtile Variationen in der eingesetzten Muskulatur und Bewegungsabfolge, die von außen kaum wahrnehmbar sind. Diese subtilen Veränderungen muss jeder für sich selbst erkunden, und je länger du Animal Walks praktizierst, desto mehr werden sie in deinen Fokus rücken. In Ihnen entfaltet sich das wahre Potenzial der Animal Walks.
 
 ## Basic Series ##
 
@@ -91,53 +113,94 @@ Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es we
 
 ## Extended Series
 
+Die Extended Series bietet dir eine Sammlung von Walks zu verschiedenen Bereichen. Such dir einen oder mehrere heraus und erweitere damit dein Training der Basic Series.
+
 ### Ameise
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/ant_annica_360x202.mp4" playsinline> </video>
+
+Für die Ameise achte als erstes darauf, dass du deine Brust öffnest, also deine Schultern nach hinten und unten ziehst. Dann hebe die Hüfte so hoch wie du kannst. Sei vorsichtig mit den Handgelenken.
 
 ### Tibetische Mönch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/monk_backward_annica_360x202.mp4" playsinline> </video>
 
+Gehe in die Hocke, strecke ein Bein zur Seite und verschiebe dein Gewicht vom anderen auf dieses Bein. Jetzt hebe dein ausgestrecktes Bein nach vorne, so dass es etwa 45° vor dir ist. Bringe dein Gewicht nun auf das andere Bein und setze fort. Stütze dich mit deinen Händen vor dir am Boden ab, um das Gleichgewicht zu halten.
+
+Im Video zeigt Annica die Rückwärts-Variante.
+
 ### Raupe
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/caterpillar_martin_360x202.mp4" playsinline> </video>
+
+Halte die Beine die ganze Zeit über gestreckt. Wichtig bei der Raupe ist, dass deine Schultern so nah wie möglich am Boden bleiben, und so deine Schulter geöffnet bleibt. Wenn du mit den Beinen hochläufst kommt die Bewegung nur aus deinen Sprunggelenken. Sie schieben dein Gesäß nach oben, während die Schulter unten bleibt.
+
+### Chamäleon
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/chameleon_annica_360x202.mp4" playsinline> </video>
+
+Das Chamäleon ähnelt der Katze, jedoch ziehts du dich kurz zusammen, streckst dann Arm und Bein so weit es geht nach oben und vorne bzw. hinten, und ziehst dich wieder zusammen. Erst dann setzt du auf.
+
+Du kannst das Chamäleon mit oder ohne erhobenen Knien machen.
 
 ### Krabbe
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/crab_martin_sailing_360x202.mp4" playsinline> </video>
 
+Drehe aktiv die Knie nach oben und halten den Po so tief wie möglich. Du kannst die Hände auch in gleichzeitig, versetzt zu den Beinen setzen, um mehr Stabilität zu bekommen.
+
 ### Dinosaurier
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dinosaur_annica_360x202.mp4" playsinline> </video> -->
+Mache einen weiten Schritt nach vorne und hebe dann das hintere Bein so hoch es geht, während du mit dem Oberkörper nach vorne ausgleichst. Drehe jetzt das Bein in der Hüfte über außen nach vorne, wobei der Oberkörper mitdreht, aber nicht das Standbein. Wenn das Bein nach vorne gestreckt ist setze ab.
+
+Nutze einen Spotpunkt zu besseren Balance und setze deine Arme ein.
 
 ### Lahmer Hund
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dog_annica_360x202.mp4" playsinline> </video> -->
 
+Ohne Video ist das schwer zu beschreiben.
+
 ### Gecko
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/gecko_annica_360x202.mp4" playsinline> </video> -->
+
+Lege dich auf den Bauch, nutze deine Hände und Füße im Kreuzgang, um dich vorwärts zu schieben. Dabei zieht ein Arm, während dass der gegenüber liegende Fuß schiebt. Der freie Arm und das freie Bein, greifen nach vorne.
 
 ### Leguan
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/iguana_martin_360x202.mp4" playsinline> </video>
 
+Die Bewegung ist wie üblich kreuzweise. Du kannst das Knie auf dem hinteren Ellbogen ablegen (der Fuß berührt dennoch den Boden). Mache einen Liegestütze und drücke dich kraftvoll heraus.
+
 ### Leopard
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/leopard_martin_360x202.mp4" playsinline> </video>
 
+Auch diese Bewegung ist kreuzweise. Stütze dein Körpergewicht über die Ellbogen. Wenn du nach vorne greifst, setze zu erst die Hand auf, dann folgt der Ellbogen. Wenn der andere Arm vorgeht, hebt sich der Ellbogen des hinteren Arms und das Knie auf der gleichen Seite zieht vor bis zum Ellbogen. 
+
 ### Löwe
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lion_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lion_martin_india_360x202.mp4" playsinline> </video>
+
+Aktiviere beim Löwen bewusst den unteren Bauch, um ein Hohlkreuz zu verhindern. Die Bewegung ist wie üblich ein Kreuzgang. Du kannst auch deine Knie absetzen.
 
 ### Nautilus
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nautilus_annica_360x202.mp4" playsinline> </video> -->
 
+Setze dich in den Schneidersitz. Mach deine Wirbelsäule lang und lass dich nach vorne senken, komme wieder hoch. Stütze die Arme neben den Knien in den Boden, hebe dich in Luft indem du deine Bauchmuskeln nutzt und schwinge dich ein kleines Stück nach vorne, wo du wieder absetzt.
+
+Wenn deine Beweglichkeit nicht ausreicht, um deine Wirbelsäule im Schneidersitz komplett aufzurichten, stütze dich hinter dir mit den Händen ab und senke dich nicht nach vorne. Stattdessen schiebst du nur den Bauchnabel nach vorne.
+
 ### Muschel
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nutshell_annica_360x202.mp4" playsinline> </video> -->
+
+Lege dich auf den Rücken und gehe ins Schiffchen, d.h. du hebst Bein, Arme und oberen Rücken leicht an. Rolle seitwärts auf den Bauch und weiter auf den Rücken. Dabei bleiben Arme und Beine komplett in der Luft.
+
+Auf hartem Boden bekommst du Druckstellen an der Hüfte, daran gewöhnt man sich jedoch.
 
 ### Skorpion
 
@@ -147,17 +210,23 @@ Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es we
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/snale_annica_360x202.mp4" playsinline> </video> -->
 
+Ohne Video schwierig zu erklären.
+
 ### Stabheuschrecke
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/stick_insect_annica_360x202.mp4" playsinline> </video> -->
+
+Gehe in den Vierfüßlerstand, Knie weg vom Boden. Hebe ein Bein an und setze es außerhalb den anderen Beins auf den Boden. Hebe den gleichseitigen Arm strecke ihn nach vorne. Rotiere jetzt den Oberkörper, halten den Arm nach vorne gestreckt und senke ihn am Ende außerhalb den anderen Arms wieder ab. Du solltest jetzt in Ameisenposition mit hoch erhobener Hüfte sein. Drücke dich während der Drehung aktiv aus der Schulter.
 
 ### Storch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/storck_martin_360x202.mp4" playsinline> </video>
 
-
+Halte den Rücken gerade, so dass die Bewegung aus der Dehnung der Hamstrings resultiert. 
 
 ## Sprünge
+
+Die Sprungsequenz kann als Cardiotraining genutzt werden, wenn du sie ein paar mal wiederholst.
 
 ### Floh
 
@@ -165,62 +234,94 @@ Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es we
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/crouch_jellyfish_martin_360x202.mp4" playsinline> </video>
 
+Achte darauf, den Bauch fest zu machen, während du springst, um deine Wirbelsäule zu schützen.
+
 ### Känguruh
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/backward_kangaroo_martin_360x202.mp4" playsinline> </video>
+
+Halte den Oberkörper tief, springe mit dem Po voran!
 
 ### Frosch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/frozen_frog_martin_360x202.mp4" playsinline> </video>
 
+Bevor du springst mache dich so klein wie möglich. Während du springst mache dich so groß wie möglich. Nach der Landung friere deine Bewegung für einen kurzen Moment in halb geöffneter Position ein (*Freeze*). So verhinderst du dass in deine Kniegelenke fällst.
+
 ## Partner
+
+Partner-Übungen bringen zusätzliche Komponenten in dein Training, zum Beispiel Vertrauen und Kommunikation. Außerdem lernst du auf den Körper eines anderen zu achten und lernst dabei auch deinen eigenen von einer anderen Seite kennen. Außerdem steigt der Fun-Faktor durch Partner-Walks massiv an.
+
+Sei behutsam, wenn du diese Übungen zum ersten Mal oder zum ersten Mal mit einem neuen Partner ausführst! Für ungeübte sind diese Übungen schwerer als sie auf den ersten Blick erscheinen.
 
 ### Schubkarre
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/wheelbarrow_annica_360x202.mp4" playsinline> </video> -->
 
+Achte darauf, die Hüfte und den Bauch nicht hängen zu lassen. Der "schiebende" Partner muss sehr darauf achte, eben nicht zu schieben, sondern seine Geschwindigkeit seiner Schubkarre anzupassen.
+
 ### Huckepack
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/piggyback_annica_360x202.mp4" playsinline> </video> -->
 
+Ein kleines Huckepack-Rennen macht immer Laune.
+
 ### Artist Series
+
+Die hier beschriebenen Walks haben artistischen Charakter oder sind sehr anspruchsvoll.
 
 ### Ash Walk
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/ash Walk_martin_360x202.mp4" playsinline> </video> -->
 
-### Chamäleon
-
-<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/chameleon_annica_360x202.mp4" playsinline> </video>
+Stelle dir vor, dein Körper wäre eine abgebrannte Zigarette die bei der leisesten Erschütterung zerfällt. Gehe nun so sanft wie möglich einige Meter.
 
 ### Krokodil
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/croc_martin_360x202.mp4" playsinline> </video>
 
+Der zentrale Moment beim Krokodil ist der Weight-Shit von einer Schulter auf die andere. Halte die Schulter tief nahe bei der stützenden Hand.
+
 ### Tanzender Mönch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dancing_monk_martin_360x202.mp4" playsinline> </video>
+
+Eine Kombination aus seitlichen Ausfallschritt und Einbeinsprung. Nutze das seitlich schwingende Bein als Schwungbein.
 
 ### Pistol Walk
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/pistol Walk_martin_360x202.mp4" playsinline> </video> -->
 
+Hebe einen Fuß nach vorne an. Beuge das andere Knie bis du komplett in der Hocke bist (auf einem Bein). Nutze deine Arme zum Balancieren. Drücke dich wieder nach oben, mache mit dem freien Bein einen Schritt und starte mit dem anderen Bein.
+
 ### Hase
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/rabbit_martin_360x202.mp4" playsinline> </video> -->
+
+Gehe in die Hocke und greife mit beiden Händen nach vorne. Halte die Arme komplett gestreckt und springe mit den Beinen zu deinen Händen. Je nach Variation kannst du dabei nur einen minimalen Sprung machen, den Po möglichst hoch bringen oder durch den Handstand gehen.
+
+Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, dass du dir von einem Handstand Lehrer erfragen solltest.
 
 ### Seelöwe
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/sea Lion_martin_360x202.mp4" playsinline> </video> -->
 
+Wir brauchen ein Video.
+
 ### Spinne
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/spider_martin_360x202.mp4" playsinline> </video> -->
+
+Die Ausgangsposition ist die der Krabbe, jedoch läuft die Spinne vorwärts und nicht zur Seite. Wenn du dein Bein hebst, versuche es kurz zu strecken, bevor du es weiter vorne wieder absetzt. Die Arme werden gegenläufig bewegt. Eine perfekte Umsetzung findet sich hier: https://www.youtube.com/watch?v=JItkRLVlf-c
 
 ### Brücke
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/bridge_maxi_360x202.mp4" playsinline> </video>
 
+Halte die Arme so gestreckt wie möglich. Achte darauf, dass dein unterer Bauch geschlossen bleibt. Die Rückbeuge kommt aus der Öffnung von Hüfte, Brustwirbelsäule und Schultern zu gleichen Teilen.
+
 ### Wurm
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/worm_martin_360x202.mp4" playsinline> </video>
+
+Der Schlüsselmoment ist das Anheben des unteren Bauchs über die Bauchmuskulatur.
