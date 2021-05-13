@@ -155,7 +155,7 @@ Drehe aktiv die Knie nach oben und halten den Po so tief wie möglich. Du kannst
 
 ### Dinosaurier
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dinosaur_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dino_martin_360x202.mp4" playsinline> </video>
 
 Mache einen weiten Schritt nach vorne und hebe dann das hintere Bein so hoch es geht, während du mit dem Oberkörper nach vorne ausgleichst. Drehe jetzt das Bein in der Hüfte über außen nach vorne, wobei der Oberkörper mitdreht, aber nicht das Standbein. Wenn das Bein nach vorne gestreckt ist setze ab.
 
@@ -169,7 +169,7 @@ Ohne Video ist das schwer zu beschreiben.
 
 ### Gecko
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/gecko_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/gecko_liane_360x202.mp4" playsinline> </video>
 
 Lege dich auf den Bauch, nutze deine Hände und Füße im Kreuzgang, um dich vorwärts zu schieben. Dabei zieht ein Arm, während dass der gegenüber liegende Fuß schiebt. Der freie Arm und das freie Bein, greifen nach vorne.
 
@@ -193,9 +193,11 @@ Aktiviere beim Löwen bewusst den unteren Bauch, um ein Hohlkreuz zu verhindern.
 
 ### Nautilus
 
-<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lotus_nautilus_max_360x202.mp4" playsinline> </video>
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nautilus_liane_360x202.mp4" playsinline> </video>
 
 Setze dich in den Schneidersitz (oder wenn du kannst in den Lotussitz). Mach deine Wirbelsäule lang und lass dich nach vorne senken, komme wieder hoch. Stütze die Arme neben den Knien in den Boden, hebe dich in Luft indem du deine Bauchmuskeln nutzt und schwinge dich ein kleines Stück nach vorne, wo du wieder absetzt.
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lotus_nautilus_max_360x202.mp4" playsinline> </video>
 
 Wenn deine Beweglichkeit nicht ausreicht, um deine Wirbelsäule im Schneidersitz komplett aufzurichten, stütze dich hinter dir mit den Händen ab und senke dich nicht nach vorne. Stattdessen schiebst du nur den Bauchnabel nach vorne.
 
@@ -227,7 +229,7 @@ Um zu verhindern, dass du die Beweglichkeit aus der Lendenwirbelsäule holst, zi
 
 ### Stabheuschrecke
 
-<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/stick_insect_martin_360x202.mp4" playsinline> </video>
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/stick_insect_martin_halle_360x202.mp4" playsinline> </video>
 
 Gehe in den Vierfüßlerstand, Knie weg vom Boden. Hebe ein Bein an und setze es außerhalb den anderen Beins auf den Boden. Hebe den gleichseitigen Arm strecke ihn nach vorne. Rotiere jetzt den Oberkörper, halten den Arm nach vorne gestreckt und senke ihn am Ende außerhalb den anderen Arms wieder ab. Du solltest jetzt in Ameisenposition mit hoch erhobener Hüfte sein. Drücke dich während der Drehung aktiv aus der Schulter.
 
@@ -301,11 +303,23 @@ Versuche für den Käfer zu Beginn erst einmal mit halb angewinkelten Beinen ein
 
 Der zentrale Moment beim Krokodil ist der Weight-Shit von einer Schulter auf die andere. Halte die Schulter tief nahe bei der stützenden Hand.
 
+### Croissant
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/croissant_incr_liane_360x202.mp4" playsinline> </video>
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/croissant_decr_liane_360x202.mp4" playsinline> </video>
+
+Die Rotation des Croissants entsteht nur aus einer umlaufenden Kontraktion im Körperzentrum.
+
 ### Tanzender Mönch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dancing_monk_martin_360x202.mp4" playsinline> </video>
 
 Eine Kombination aus seitlichen Ausfallschritt und Einbeinsprung. Nutze das seitlich schwingende Bein als Schwungbein.
+
+### Kleiner Helikopter
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/helicopterito_martin_360x202.mp4" playsinline> </video>
 
 ### Pistol Walk
 
@@ -335,7 +349,7 @@ Um die Bewegung zu erlernen starte in der Mittelposition: Lege dich auf den Rüc
 
 ### Spinne
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/spider_martin_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/spider_martin_360x202.mp4" playsinline> </video>
 
 Die Ausgangsposition ist die der Krabbe, jedoch läuft die Spinne vorwärts und nicht zur Seite. Wenn du dein Bein hebst, versuche es kurz zu strecken, bevor du es weiter vorne wieder absetzt. Die Arme werden gegenläufig bewegt. Eine perfekte Umsetzung findet sich hier: ["THE SPIDER" amazing dance by Milena Sidorova (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=JItkRLVlf-c)
 
