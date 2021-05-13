@@ -145,13 +145,18 @@ Du kannst das Chamäleon mit oder ohne erhobenen Knien machen.
 
 ### Krabbe
 
-<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/crab_martin_sailing_360x202.mp4" playsinline> </video>
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/crab_liane_360x202.mp4" playsinline> </video>
 
 Drehe aktiv die Knie nach oben und halten den Po so tief wie möglich. Du kannst die Hände auch in gleichzeitig, versetzt zu den Beinen setzen, um mehr Stabilität zu bekommen.
+
+### Libelle
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dragon_fly_liane_360x202.mp4" playsinline> </video>
 
 ### Dinosaurier
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dinosaur_annica_360x202.mp4" playsinline> </video> -->
+
 Mache einen weiten Schritt nach vorne und hebe dann das hintere Bein so hoch es geht, während du mit dem Oberkörper nach vorne ausgleichst. Drehe jetzt das Bein in der Hüfte über außen nach vorne, wobei der Oberkörper mitdreht, aber nicht das Standbein. Wenn das Bein nach vorne gestreckt ist setze ab.
 
 Nutze einen Spotpunkt zu besseren Balance und setze deine Arme ein.
@@ -188,33 +193,41 @@ Aktiviere beim Löwen bewusst den unteren Bauch, um ein Hohlkreuz zu verhindern.
 
 ### Nautilus
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nautilus_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lotus_nautilus_max_360x202.mp4" playsinline> </video>
 
-Setze dich in den Schneidersitz. Mach deine Wirbelsäule lang und lass dich nach vorne senken, komme wieder hoch. Stütze die Arme neben den Knien in den Boden, hebe dich in Luft indem du deine Bauchmuskeln nutzt und schwinge dich ein kleines Stück nach vorne, wo du wieder absetzt.
+Setze dich in den Schneidersitz (oder wenn du kannst in den Lotussitz). Mach deine Wirbelsäule lang und lass dich nach vorne senken, komme wieder hoch. Stütze die Arme neben den Knien in den Boden, hebe dich in Luft indem du deine Bauchmuskeln nutzt und schwinge dich ein kleines Stück nach vorne, wo du wieder absetzt.
 
 Wenn deine Beweglichkeit nicht ausreicht, um deine Wirbelsäule im Schneidersitz komplett aufzurichten, stütze dich hinter dir mit den Händen ab und senke dich nicht nach vorne. Stattdessen schiebst du nur den Bauchnabel nach vorne.
 
 ### Muschel
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nutshell_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/nutshell_max_360x202.mp4" playsinline> </video>
 
 Lege dich auf den Rücken und gehe ins Schiffchen, d.h. du hebst Bein, Arme und oberen Rücken leicht an. Rolle seitwärts auf den Bauch und weiter auf den Rücken. Dabei bleiben Arme und Beine komplett in der Luft.
 
 Auf hartem Boden bekommst du Druckstellen an der Hüfte, daran gewöhnt man sich jedoch.
 
+### Taube
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/pidgeon_liane_360x202.mp4" playsinline> </video>
+
+Sei am Anfang vorsichtig: die Beweglichkeit dieser Übung entsteht aus der Innenrotation des Oberschenkels. Wenn deine Hüfte noch zu steif ist, leidet dein Knie. In dem Fall solltest du vorerst die Taube statisch üben.
+
 ### Skorpion
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/scorpion_martin_360x202.mp4" playsinline> </video>
 
+Ausgangsposition ist der Yoga Hund. Hebe dann ein Bein, wahlweise mit gerader oder auswärtsrotierter Hüfte. Strecke dich auf die Zehen und mach den unteren Fuß lang. Dennoch sollten deine Schultern Richtung Boden streben.
+
 ### Schnecke
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/snale_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/snale_martin_360x202.mp4" playsinline> </video>
 
-Ohne Video schwierig zu erklären.
+Um zu verhindern, dass du die Beweglichkeit aus der Lendenwirbelsäule holst, ziehe deine Knie in Richtung Bauch und behalte die dabei entwickelte Bauchspannung. Strebe mit dem Brustbein und den Achselhöhlen in Richtung Boden. Auch beim "Auftauchen" führt das Brustbein die Bewegung an.
 
 ### Stabheuschrecke
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/stick_insect_annica_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/stick_insect_martin_360x202.mp4" playsinline> </video>
 
 Gehe in den Vierfüßlerstand, Knie weg vom Boden. Hebe ein Bein an und setze es außerhalb den anderen Beins auf den Boden. Hebe den gleichseitigen Arm strecke ihn nach vorne. Rotiere jetzt den Oberkörper, halten den Arm nach vorne gestreckt und senke ihn am Ende außerhalb den anderen Arms wieder ab. Du solltest jetzt in Ameisenposition mit hoch erhobener Hüfte sein. Drücke dich während der Drehung aktiv aus der Schulter.
 
@@ -266,7 +279,7 @@ Achte darauf, die Hüfte und den Bauch nicht hängen zu lassen. Der "schiebende"
 
 Ein kleines Huckepack-Rennen macht immer Laune.
 
-### Artist Series
+## Artist Series ##
 
 Die hier beschriebenen Walks haben artistischen Charakter oder sind sehr anspruchsvoll.
 
@@ -275,6 +288,12 @@ Die hier beschriebenen Walks haben artistischen Charakter oder sind sehr anspruc
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/ash Walk_martin_360x202.mp4" playsinline> </video> -->
 
 Stelle dir vor, dein Körper wäre eine abgebrannte Zigarette die bei der leisesten Erschütterung zerfällt. Gehe nun so sanft wie möglich einige Meter.
+
+### Käfer
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/bug_liane_360x202.mp4" playsinline> </video>
+
+Versuche für den Käfer zu Beginn erst einmal mit halb angewinkelten Beinen eine flüssige Bewegung zu erreichen. Entspanne der Arme während du sie über den Kopf führst. Wenn du dich auf deine Knie ziehst, ziehe das Knie des unteren Beins eng an die Brust und nutze das Gewicht des oberen Beins als Schwung. 
 
 ### Krokodil
 
@@ -290,7 +309,7 @@ Eine Kombination aus seitlichen Ausfallschritt und Einbeinsprung. Nutze das seit
 
 ### Pistol Walk
 
-<!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/pistol Walk_martin_360x202.mp4" playsinline> </video> -->
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/pistol_martin_360x202.mp4" playsinline> </video>
 
 Hebe einen Fuß nach vorne an. Beuge das andere Knie bis du komplett in der Hocke bist (auf einem Bein). Nutze deine Arme zum Balancieren. Drücke dich wieder nach oben, mache mit dem freien Bein einen Schritt und starte mit dem anderen Bein.
 
@@ -307,6 +326,12 @@ Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, dass du
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/sea Lion_martin_360x202.mp4" playsinline> </video> -->
 
 Wir brauchen ein Video.
+
+### Seitliche Rolle
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/sideroll_martin_360x202.mp4" playsinline> </video>
+
+Um die Bewegung zu erlernen starte in der Mittelposition: Lege dich auf den Rücken und bring die Beine erst in die Luft und dann hinter den Kopf. Dann rolle zu einer Seite ab und versuche die Bewegung rückwärts auszuführen.
 
 ### Spinne
 
