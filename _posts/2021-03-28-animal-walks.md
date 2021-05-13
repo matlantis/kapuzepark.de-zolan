@@ -319,7 +319,7 @@ Hebe einen Fuß nach vorne an. Beuge das andere Knie bis du komplett in der Hock
 
 Gehe in die Hocke und greife mit beiden Händen nach vorne. Halte die Arme komplett gestreckt und springe mit den Beinen zu deinen Händen. Je nach Variation kannst du dabei nur einen minimalen Sprung machen, den Po möglichst hoch bringen oder durch den Handstand gehen.
 
-Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, dass du dir von einem Handstand Lehrer erfragen solltest.
+Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, das du dir von einem Handstand Lehrer erfragen solltest.
 
 ### Seelöwe
 
@@ -337,7 +337,7 @@ Um die Bewegung zu erlernen starte in der Mittelposition: Lege dich auf den Rüc
 
 <!-- <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/spider_martin_360x202.mp4" playsinline> </video> -->
 
-Die Ausgangsposition ist die der Krabbe, jedoch läuft die Spinne vorwärts und nicht zur Seite. Wenn du dein Bein hebst, versuche es kurz zu strecken, bevor du es weiter vorne wieder absetzt. Die Arme werden gegenläufig bewegt. Eine perfekte Umsetzung findet sich hier: https://www.youtube.com/watch?v=JItkRLVlf-c
+Die Ausgangsposition ist die der Krabbe, jedoch läuft die Spinne vorwärts und nicht zur Seite. Wenn du dein Bein hebst, versuche es kurz zu strecken, bevor du es weiter vorne wieder absetzt. Die Arme werden gegenläufig bewegt. Eine perfekte Umsetzung findet sich hier: ["THE SPIDER" amazing dance by Milena Sidorova (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=JItkRLVlf-c)
 
 ### Brücke
 
