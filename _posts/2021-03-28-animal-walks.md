@@ -53,6 +53,16 @@ Darüber hinaus bietet natürlich jeder Walk seine ihm eigenen Möglichkeiten de
 
 Im Gegensatz zu den Variationen, die von außen erkennbar sind, weil sie die Form des Walks maßgeblich verändern, stehen subtile Variationen in der eingesetzten Muskulatur und Bewegungsabfolge, die von außen kaum wahrnehmbar sind. Diese subtilen Veränderungen muss jeder für sich selbst erkunden, und je länger du Animal Walks praktizierst, desto mehr werden sie in deinen Fokus rücken. In Ihnen entfaltet sich das wahre Potenzial der Animal Walks.
 
+## Übergang zu anderen Disziplinen
+
+Wenn man die Fülle an Möglichkeiten überdenkt fragt man sich schließlich, wo der Animal Walk eigentlich aufhört einer zu sein. Oder anders gefragt: was macht ihn aus?
+
+Ich möchte das auf persönliche Weise beantworten. Das besondere am Animal Walk Training ist für mich, eine Bewegung auszuführen, die mich **fort**bewegt und sie über eine bestimmte Distanz aufrecht zu erhalten. Das führt dazu, dass man die Übung relativ häufig wiederholt, und gibt dem Training eine Struktur. Ich habe zeitweise darauf verzichtet, eine klare Distanz festzulegen und es den Teilnehmern stattdessen erlaubt, sich frei im Raum zu bewegen. Meiner Beobachtung nach hat das jedoch dazu geführt, dass die Motivation nachgelassen hat, auch bei mir selbst.
+
+Dieses Konzept lässt sich auf sehr viele Bewegungen anwenden, vor allem aus dem Bereich Tanz, Artistik und Turnen. Es wird dadurch von einer Sammlung an bestimmten Übungen zu einem Trainingskonzept.
+
+Beim Entwurf neuer Bewegungen kommt man unweigerlich zu dem Punkt, dass dem neu entwickelten *Walk* der Fortbewegungsaspekt fehlt, oder die Bewegung keine Gerade bildet, sondern einen Kreis und sich somit keine Distanz zurücklegen lässt. Streng genommen hört hier der Animal Walk also auf. Allerdings erscheint mir diese Grenze gleichzeitig sinnlos, denn wieso sollte ich eine sinnvolle Übung aus meinem Training ausschließen, nur weil sich mit ihr keine Distanz überbrücken lässt. Ich lasse diese Frage offen, weil ich selbst noch keine zufriedenstellende Antwort darauf gefunden habe.
+
 ## Basic Series ##
 
 Diese Serie besteht aus einem Kern, der die wichtigsten Bereiche des Körpers abdeckt: Core Spannung, Stabilität und Mobilität in Schulter und Hüfte, Balance und Entspannung.
