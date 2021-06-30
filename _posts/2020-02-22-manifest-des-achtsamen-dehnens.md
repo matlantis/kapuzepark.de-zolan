@@ -6,9 +6,9 @@ tags:   Artist Yogi
 toc:    true
 ---
 
-Ich  möchte hier meine Methode des Dehnens - oder besser - zur Verbesserung der Beweglichkeit beschreiben. Sie fußt auf den Erfahrungen, die ich im Wesentlichen im letzten Jahr gesammelt habe und auf dem neuen Verständnis, das ich von den Vorgängen beim Dehnen gewonnen habe. Dieses Verständnis hat es mir ermöglicht, eine neue, effiziente Vorgehensweise zur Verbesserung meiner Beweglichkeit zu entwickeln. Sie ist nur durch meine eigene Erfahrung belegt. Dieser Text ist eine Sammlung von Gedanken zum achtsamen Dehnen. Er enthält jedoch keine Anleitung.
+Ich  möchte hier meine Methode des Dehnens - oder besser - zur Verbesserung der Beweglichkeit beschreiben. Sie fußt auf den Erfahrungen, die ich im Wesentlichen im letzten Jahr gesammelt habe und auf dem neuen Verständnis, das ich von den Vorgängen beim Dehnen gewonnen habe. Dieses Verständnis hat es mir ermöglicht, eine effektive Vorgehensweise zur Verbesserung meiner Beweglichkeit zu entwickeln. Sie ist nur durch meine eigene Erfahrung belegt. Dieser Text ist eine Sammlung von Gedanken zum achtsamen Dehnen. Er enthält jedoch keine Anleitung.
 
-## Abgrenzung des Dehnens
+## Abgrenzung des Dehnens ##
 
 Als erstes sollen ein paar Begriffe geklärt werden.
 
@@ -16,15 +16,15 @@ Unter **Dehnen** wird eine Methode verstanden, mit deren Hilfe, die Beweglichkei
 
 Als **klassisches Dehnen** wird die Methode bezeichnet, bei der der Muskel durch Zugkraft *verlängert* wird. Meine Methode wird als **achtsames Dehnen** bezeichnet.
 
-Einige Sportler verwenden **federndes Dehnen** zur Aufwärmung vor dem Sport. Durch die rhythmische Kontraktion wird der Muskel aktiviert, wodurch der Ruhetonus heraufgesetzt und damit das Verletzungsrisiko reduziert wird. Für die Verbesserung der Beweglichkeit ist federndes Dehnen jedoch meines Erachtens wenig geeignet, daher wird hier nicht mehr darauf eingegangen.
+## In aller Kürze ##
 
-## In aller Kürze
-
-Hier ein kleiner Überblick zu meiner Methode. Als erstes wird als Ursache für fehlende Beweglichkeit nicht der Muskel, sondern das Nervensystem erkannt, sozusagen eine Fehlsteuerung des Muskels. Um das Problem anzugehen wird die Methode der Achtsamkeit verwendet, indem die muskulären Vorgänge in unserem Körper beim Dehnen genauestens beobachtet und anschließend kontrolliert werden sollen. Um die gewonnene bewusste Flexibilität jedoch in aktive unwillkürliche Beweglichkeit umzusetzen, ist ein weiterer Schritt notwendig, der dem Eintrainieren einer neuen Bewegung gleicht.
+Hier ein kleiner Überblick zu meiner Methode. Als erstes wird als Ursache für fehlende Beweglichkeit nicht der Muskel, sondern die Motorik erkannt, sozusagen eine Fehlsteuerung des Muskels. Um das Problem anzugehen wird die Methode der Achtsamkeit verwendet, indem die muskulären Vorgänge in unserem Körper beim Dehnen genauestens beobachtet und anschließend kontrolliert werden sollen. Um die gewonnene bewusste Flexibilität jedoch in aktive unwillkürliche Beweglichkeit umzusetzen, ist ein weiterer Schritt notwendig, der dem Eintrainieren einer neuen Bewegung gleicht.
 
 Als Nebeneffekt dieser Vorgehensweise entwickelt der Übende eine hohe Körperwahrnehmung (bewusste Propriozeption) und Körperkontrolle, die ihm auch anderen Belangen zugute kommen kann.
 
-## Die Funktionsweise des Muskels ##
+## Theorie
+
+### Die Funktionsweise des Muskels ###
 
 Das Verständnis des achtsamen Dehnens setzt ein bestimmte Vorstellung von der Funktionsweise der Muskulatur voraus, die ich hier erläutern möchte. Inwieweit diese Vorstellung korrekt ist, müsste mal mit einem Sportwissenschaftler oder Mediziner besprochen werden.
 
@@ -32,25 +32,27 @@ Der Muskel besitzt zwei verschiedene Methoden der Anspannung, und zwar eine **is
 
 Unsere Gelenke werden durch die Muskeln betrieben: im vereinfachten Fall je ein Muskel auf jeder Seite des Gelenks. Wird das Gelenk geöffnet oder geschlossen, verkürzt sich der Muskel auf der einen Seite, der **Agonist**, während sich der andere, der **Antagonist**, verlängert.
 
-Unsere Gelenke würden ohne das sie umgebende Gewebe auseinanderfallen. Das wird einerseits durch die Muskeln verhindert sowie durch die Bänder, die das Gelenk auch dann noch zusammenhalten, wenn die Muskeln aus irgendeinem Grund ausfallen. Das tritt beispielsweise im Schlaf oder bei Bewusstlosigkeit oder aber bei schneller Krafteinwirkung in Folge eines Unfalls ein, wenn der Tonus des Muskels zu niedrig ist und die Reaktionszeit zur Erhöhung des Muskels zu lang. Da Bänder im Allgemeinen bei Weitem nicht so stabil wie unsere Muskeln sind, kommt es dabei häufig zu einer Verletzung der Bänder.
+Unsere Gelenke würden ohne das sie umgebende Gewebe auseinanderfallen. Das wird einerseits durch die Muskeln verhindert sowie durch die Bänder, die das Gelenk auch dann noch zusammenhalten, wenn die Muskeln aus irgendeinem Grund ausfallen. Das tritt beispielsweise im Schlaf oder bei Bewusstlosigkeit oder aber bei schneller Krafteinwirkung in Folge eines Unfalls ein, wenn der Tonus des Muskels zu niedrig ist und die Reaktionszeit zur Erhöhung des Muskels zu lang. Da Bänder im Allgemeinen bei Weitem nicht so stabil wie unsere Muskeln sind, kann es dabei zu einer Verletzung der Bänder kommen.
 
-Da die Muskeln unser Gelenke also zusammenhalten müssen, haben sie einerseits einen **Ruhetonus**, eine Mindest-Anspannung, die auch ohne weitere Anforderung an den Muskel aufrecht erhalten wird. Wenn wir schlafen, ist dieser Ruhetonus herabgesetzt, wenn wir aktiv werden erhöht unser Nervensystem auch den Ruhetonus der Muskulatur, da die Wahrscheinlichkeit von Verletzungen steigt. Durch Lockern der Muskulatur kann der Ruhetonus nach dem Training wird herabgesetzt werden, um Verspannungen vorzubeugen.
+Da die Muskeln unser Gelenke also zusammenhalten müssen, haben sie einerseits einen **Ruhetonus**, eine Mindest-Anspannung, die auch ohne weitere Anforderung an den Muskel aufrecht erhalten wird. Wenn wir schlafen, ist dieser Ruhetonus herabgesetzt. Wenn wir aktiv werden, erhöht unser vegetatives Nervensystem auch den Ruhetonus der Muskulatur, da die Wahrscheinlichkeit von Verletzungen steigt. Durch Lockern der Muskulatur kann der Ruhetonus nach dem Training wird herabgesetzt werden, um Verspannungen vorzubeugen.
 
-Außerdem besitzen unsere Muskeln einen Reflex (der bestimmt einen Namen hat), der unsere Gelenke schützt (nicht jedoch den Muskel selbst): Wenn ein Muskel eine bestimmte Länge (ich nenne sie Paniklänge) überschreitet, beginnt sich dessen Tonus zu erhöhen, um der Öffnung des Gelenks entgegenzuwirken. Ist die Kraft groß genug, um das Gelenk weiter zu öffnen, erhöht sich der Tonus weiter. Das geschieht, bis der Muskel, wenn er lang genug ist, der ursächlichen Kraft seine gesamte Anspannung entgegenstellt. Wird er jetzt noch weiter verlägert, beginnt der Muskel zu zerreißen. 
+### Ansteuerung des Muskels ###
 
-## Ursache für fehlende Beweglichkeit ##
+Wir sind es gewohnt, dass wir unsere Muskulatur bewusst steuern können. Doch dass die Muskulatur unserem Willen unterliegen würde täuscht, denn die Koordination unserer Muskeln ist so komplex, dass unsere bewussten Denken damit völlig überfordert wäre. Vereinfachend möchte ich es so beschreiben: Zwischen unserem Willen und des Muskeln liegt unser motorische Koordinator, kurz **Motorik**. Unser Wille fordert bei der Motorik eine gewisse Bewegung an, und die bemüht sich dann, der Anforderung nachzukommen.
 
-Wir sind es gewohnt, dass wir unsere Muskulatur bewusst steuern können. Sowohl Anspannen als auch Entspannen und sowohl isotonisch als auch isometrisch funktioniert üblicherweise bewusst. Der oben erwähnte Schutzreflex ist jedoch unwillkürlich, auch wenn wir das nicht spüren.
+Wir müssen uns klar machen, dass die Motorik sich nach gerlernten Mustern verhält. Sie lernt dazu, aber nicht durch Nachdenken, sondern durch Versuch und Irrtum. Bewegungen, die sie noch nie ausgeführt hat, wird sie also, wenn überhaupt nur ungefähr ausführen. Ich betrachte meine Motorik wie einen Hund, dem man mit etwas Geduld Dinge beibringen kann.
 
-Wenn beim Öffnen des Gelenks die unbewusste Tonuserhöhung des Muskels bei einer Länge einsetzt, in der das Gelenk noch nicht die von uns gewünschte Öffnung besitzt, kommt die bewusste Bewegung zum stehen. Wir sagen dann, wir sind nicht beweglich genug. Um also unsere Beweglichkeit zu erhöhen müssen wir diesen Paniklängenreflex so verändern, dass er uns in Zukunft mehr Bewegungsspielraum gibt.
+Wenn unsere Motorik einer Bewegungsanforderung nicht richtig nachkommen kann, dann meldet sie das nicht an unseren Willen zurück (weil sie es selbst nicht weiß). Dieses fehlende Feedback stellt ein zentrales Hindernis beim Erlernen neuer Bewegungen dar.
 
-So weit so simpel. Leider ist in den seltensten Fällen nur ein einziger Muskel in die Dehnungsaufgabe involviert. Stattdessen werden wir mit einem Orchester verhärteter Muskeln konfrontiert, und jeder besitzt seinen eigenen Reflex.
+### Ursache für fehlende Beweglichkeit ###
 
-Noch anspruchsvoller wird es in bestimmten Bereichen, z.B. in der Hüfte oder in den Schultern, in denen Unbeweglichkeit eine andere Ursache haben kann. Die beteiligten Muskelbewegungen sind sehr komplex. Unsere Welt von der willkürlichen Muskelkontrolle zerspringt jetzt vollends: Müssten wir unsere Muskeln bewusst kontrollieren, wären wir niemals in der Lage unseren Arm in die Höhe zu strecken. Die komplizierten Vorgänge in unserem Schultergelenk werden von unserem Kleinhirn gesteuert. Wir sagen ihm, was passieren soll, und das Kleinhirn leitet die nötigen Befehle an die Muskeln in die Wege.
+Die Motorik hat als zentrale Grundaufgabe, mithilfe der Muskulatur unseren Körper zu stabilisieren, damit wir uns nicht verletzen. Daher wird unsere Motorik nicht jeder neuen Bewegungsaufgabe mit Freuden nachkommen, sondern sich in neue Bereich nur langsam vortasten, um die körperliche Integrität nicht zu gefährden.
 
-Fehlende Beweglichkeit äußert sich hier nicht in einem Schutzreflex, sondern in einer kompleten Fehlprogrammierung des neuronalen Netzes in unserem Kleinhirn, der für diese Aufgabe nie trainiert worden ist. Um z.B. den Arm gerade nach oben strecken zu können, muss er auswärts gedreht werden, was bei vielen Leute mit reduzierter Schulterbewegichkeit nicht automatisch passiert. Um höhere Beweglichkeit zu erreichen, muss das vorhandene, in Kindheitstagen erlernte, Programm, durch ein neues Programm ersetzt werden, dass in der Lage ist, die Bewegung korrekt auszuführen. Daher ist die Herausforderung *die Schulter oder die Hüfte zu Öffnen* ungleich größer als z.B. die Hamstrings oder den Iliopsoas zu dehnen. Die Methode des achtsamen Dehnens kann dabei jedoch helfen und entfaltet hierin ihr wahres Potenzial.
+Wenn wir unsere Beweglichkeit erweitern wollen, kommen wir in genau diese Situation. Am Rande des bereits ausgeloteten Bewegungsspektrums wird unsere Motorik die gewünschte Bewegung vorzeitig stoppen. Da sie unserem Willen darüber kein Feedback gibt, haben wir den Eindruck, ein physisches Hindernis würde die Bewegung verhindern und nehmen an, dass unser Muskulatur zu kurz wäre. Das ist jedoch eine Illusion, stattdessen muss unsere Motorik erst lernen, dass die Bewegung sicher ist.
 
-## Lernmethoden ##
+Noch komplexer wird es, wenn die bisher trainierten Bewegungsmuster gar nicht geeignet sind, um eine höhere Beweglichkeit zu erreichen. Um z.B. den Arm gerade nach oben strecken zu können, muss er auswärts gedreht werden, was bei vielen Leute mit reduzierter Schulterbewegichkeit nicht automatisch passiert. Um höhere Beweglichkeit zu erreichen, muss das vorhandene, in Kindheitstagen erlernte, Programm, durch ein neues Programm ersetzt werden, das in der Lage ist, die Bewegung korrekt auszuführen. Man muss sozusagen erst ein Stück zurückgehen, bevor man weiter vorwärst kann. Daher ist die Herausforderung *die Schulter oder die Hüfte zu Öffnen* ungleich größer als z.B. die Beinbeuger oder den Hüftbeuger zu dehnen.
+
+### Lernmethoden ###
 
 Um unsere Beweglichkeit zu erhöhen muss unser Gehirn lernen. Deshalb möchte ich kurz zwei Herangehensweisen erläutern, wie das Gehirn Bewegung erlernt. Eine bewusste und eine unbewusste.
 
@@ -60,9 +62,9 @@ Als Kind lernen wir sehr viel und sehr schnell. Dennoch tun wir das nicht bewuss
 
 In jeder Lernmethode stellt **Feedback** ein unabdingbares Element dar. Dass heißt, dass man Methoden benötigt, um den Lernerfolg zu überprüfen. Je unmittelbarer das Feedback ist, desto schneller lernt man. 
 
-Feedback kann objektiv oder subjektiv sein. Objektives Feedback erfordert eine Messmethode und ist exakter. Subjektives Feedback ist eine schnelle Einschätzung durch die Intuition. Für das achtsame Dehnen ist die subjektive Methode besser geeignet, weil es sofort zur Verfügung steht. Außerdem hat es den Vorteil, dass es nicht nur von unserem Verstand sondern auch beim spielerischen Lernen genutzt wird. Die Intuition kann darüber hinaus durch gezieltes Training geschärft werden, um die Qualität des Feedbacks zu erhöhen. 
+Feedback kann objektiv oder subjektiv sein. Objektives Feedback erfordert eine Messmethode und ist exakter. Subjektives Feedback ist eine schnelle Einschätzung durch die Intuition. Für das achtsame Dehnen ist die subjektive Methode besser geeignet, weil es sofort zur Verfügung steht. Außerdem hat es den Vorteil, dass es nicht nur von unserem Verstand sondern auch beim spielerischen Lernen genutzt wird. Die Intuition kann darüber hinaus durch Training geschärft werden, um die Qualität des Feedbacks zu erhöhen. 
 
-## Sympathikus und Parasympathikus ##
+### Sympathikus und Parasympathikus ###
 
 Sympathikus und Parasympathikus sind zwei Teile unseres Nervensystems, deren Aktivität mit zwei gegensätzlichen körperlichen Zuständen verbunden ist: der Sympathikus mit Aktivität und der Parasympathikus mit Erholung. Da die beiden Systeme einen Einfluss auf den Ruhetonus unserer Muskulatur haben, sollte man ihnen beim Dehnen Beachtung schenken. 
 
@@ -70,26 +72,27 @@ Der Parasympathikus senkt den Tonus der Skelettmuskulatur. Er verlangsamt außer
 
 Um zu beeinflussen, welches der beiden Systeme gerade aktiv ist, gibt es verschiedene Methoden. Beispielsweise die Atmung, die richtige Tageszeit, ob wir gerade gegessen haben und die Hintergrundmusik. Es empfiehlt sich in jedem Fall, darauf zu achten, welches der beiden Systeme gerade aktiv ist. Dadurch lernen wir unseren Körper deutlich besser kennen, können unser Training an den Körper anpassen oder Maßnahmen ergreifen, um unseren Aktivitätszustand zu verändern.
 
-## Drei Phasen des Dehnens ##
+## Praxis ##
 
-Das Dehnen des Muskels umfasst drei verschiedene Aufgaben. Einerseits das bewusste Entspannen der beteiligten Muskeln, um den Paniklängenreflex zu umgehen. 
+### Drei Phasen des Dehnens ###
+
+Das Dehnen des Muskels umfasst drei verschiedene Aufgaben. Als erstes und wichtigstes übt man das bewusste Entspannen der beteiligten Muskeln, um einen höheren Bewegungsradius zuzulassen.
 
 Wenn der Muskel entspannt ist, kann sich das beteiligte Gelenk zwar weiter Öffnen, doch mag es sein, dass es andere Bindegewebsstrukturen gibt, die sich der neuer Bewegung anpassen müssen. Ein Beispiel dafür sind die Faszien. Dieses Bindegewebe muss tatsächlich im klassischen Sinne gedehnt werden, also durch Zug verlängert, und das ist schmerzhaft.
 
 Allerdings ist eine Beweglichkeit, die während einer ruhigen Dehnposition durch bewusste Konzentration erreicht wird, noch keine Beweglichkeit, die in dynamischen Bewegungsabläufen zur Verfügung steht. Die bewusste Beweglichkeit muss in intuitive Bewegungsmuster umgesetzt werden.
 
-## Den Muskel entspannen ##
+### Den Muskel entspannen ###
 
 Um zu lernen, den Muskel zu entspannen, sollte man sich erst einmal über die beteiligten Muskeln, Sehnen, Bänder und Nerven klarwerden. Dabei hilft ein Fachbuch, Wikipedia oder Youtube. 
 
-Der wichtigeste Schritt beim achtsamen Dehnen ist das Erspüren dieser Gewebestrukturen. Darunter fällt zum Beispiel, einen Schmerz einem Muskel oder einer Sehne zuordnen zu können, den Spannungszustand eines Muskels in Erfahrung bringen und von der umgebenden Muskulatur unterscheiden zu können oder Veränderungen im Bewegungsablauf zu bemerken. 
+Der wichtigeste Schritt beim achtsamen Dehnen ist das propriozeptive (innerliche) Erspüren dieser Gewebestrukturen. Darunter fällt zum Beispiel, einen Schmerz einem Muskel oder einer Sehne zuordnen zu können, den Spannungszustand eines Muskels in Erfahrung bringen und von der umgebenden Muskulatur unterscheiden zu können oder Veränderungen im Bewegungsablauf zu bemerken. 
 
 Das Training der Wahrnehmung eines Muskel geht Hand in Hand mit dem Training der Kontrolle über ihn. Die Veränderung des Spannungszustands eines Muskels ist oft einfacher zu erkennen, als ein statischer Spannungszustand. Dabei ist die Anspannung in aller Regel einfacher zu trainieren als die Entspannung und sollte ihr daher voraus gehen.
 
 Um Feedback zu erhalten, können wir die Methoden kombinieren: Um zu überprüfen, ob wir einen bestimmten Muskel anspannen konnten, können wir ihn von außen ertasten. Um zu überprüfen, ob unsere Wahrnehmung über den Spannungszustand korrekt ist, können wir außerdem überprüfen, ob wir eine Änderung spüren, wenn wir den Muskel bewusst anspannen. Oft ist Schmerz verhältnismässig leicht zu lokalisieren. Eine Veränderung des Schmerzes deutet auf eine Veränderung des Spannungszustands hin.
 
-
-## Die Atmung ##
+### Die Atmung ###
 
 Die Atmung kann viel dazu beitragen, um Kontrolle über die Entspannung zu erlangen. Dazu wird die Ausatmung mit dem Entspannen der Muskulatur verbunden, indem man sich vorstellt, der Atem würde durch den zu entspannenden Muskel entweichen. 
 
@@ -97,13 +100,13 @@ Während des Einatmens wird der geistige Fokus auf die richtige Haltung und auf 
 
 Wenn man sich auf die Atmung konzentriert wird diese automatisch langsamer und tiefer. Das aktiviert den Parasympathikus, was dabei hilft, die zu dehnende Muskulatur zu entspannen.
 
-## Der Antagonist ##
+### Der Antagonist ###
 
 Beim Entspannen des Muskels kann der Antagonist helfen. Das liegt daran, weil die durch eine aktive Bewegung induzierte Anspannung des einen automatisch zur Entspannung des anderen führt. Die reine Anspannung des Antagonisten reicht dabei nicht aus, stattdessen muss der Anspannung eine kleine gewollte Bewegung zugrunde liegen.
 
 Die wechselseitige Anspannung des zu dehnenden Muskels und seines Antagonisten mittels einer kleinen Bewegung nenne ich **aktives Dehnen**. Es ist von großem Nutzen, wenn jede Hin- oder Her-Bewegung tatsächlich bewusst ausgeführt wird und jeweils zum kompletten Stillstand kommt bevor die Gegenbewegung einsetzt. Das aktive Dehnen ist dadurch klar vom federnden Dehnen abzugrenzen. Idealerweise wird aktives Dehnen im Atemrhythmus durchgeführt und mit der obigen Atemmethode kombiniert, was einerseits den Entspannungseffekt bei der Ausatmung ausnutzt und zusätzlich einen konstanten gemächlichen Rhythmus vorgibt. Das aktive Dehnen trainiert außerdem den Antagonisten.
 
-## Dehnen des Bindegewebes ##
+### Dehnen des Bindegewebes ###
 
 Der Körper besteht aus mehr als nur Muskeln und Knochen. Wenn wir unsere Muskeln dazu bringen, unsere Gelenke weiter zu öffnen als gewohnt, wird das sie umgebende Gewebe tatsächlich im klassischen Sinn gedehnt, was zu schmerzen führt und weiteres Dehnen verhindert. Nicht jede Art von Gewebe kann problemlos gedehnt werden.
 
@@ -113,7 +116,7 @@ Nerven reagieren empfindlich auf Dehnung, es kann zu kribbeln in den Extremität
 
 Sehr problematisch ist das Dehnen von Bändern und Sehnen. Dehnt man sie führt das schnell zu Entzündungen und dauerhaft zur Schwächung. Wenn wir den Verdacht haben, durch unsere Dehnpraxis Bänder oder Sehnen zu dehnen, sollten wir abbrechen und einen anderen Weg suchen. Der Unterschied zwischen Bändern und Sehnen ist, dass Bänder Knochen miteinander verbinden und Sehnen Muskeln mit Knochen. Wenn unsere Dehnen oder Bänder strapaziert werden, merken wir das durch Schmerzen. Unsere Bänder legen unüberschreitbare Grenzen für unsere Beweglichkeit fest. Schmerzen in den Sehnen bedeuten dagegen, dass wir zuviel Zugkraft in der Dehnung verwenden und den Muskel noch nicht ausreichend entspannen können.
 
-## Dehngefühl ##
+### Dehngefühl ###
 
 Die meisten kennen das typische **Dehngefühl** im Muskel, das entsteht, wenn der Muskel in die Länge gezogen wird. Es ist nicht unangehm, jedoch leicht schmerzhaft. Im klassischen Dehnen wird es als gutes Zeichen verstanden, da ja offensichtlich *der Muskel gedehnt* wird (*es zieht beim Dehnen*). Wenn man gelernt hat, seinen Muskel beim Dehnen zu entspannen, stellt man jedoch fest, dass auch das Dehngefühl verschwindet. Dehngefühl ist also ein Zeichen dafür, dass man seinen Muskel noch nicht ausreichend entspannt. Das Dehngefühl liefert uns allerdings ein gutes Mittel, um den zu entspannenden Muskel zu lokalisieren. 
 
@@ -121,7 +124,7 @@ In manchen Fällen lässt sich kein Dehngefühl herbeiführen (Schulteröffnung)
 
 Wenn eine Kette von Strukturen in die Länge gezogen wird, ist es verständlich, dass das schwächste Glied zu erst nachgibt. Wenn zwei Muskeln so eine Kette bilden, wird der schwächere von beiden als erstes ein Dehngefühl an das Gehirn senden. Dennoch kann die Ursache für die Bewegungseinschränkung auch im anderen Muskel liegen. In diesem Fall führt das Dehngefühl auf die falsche Fährte. Abhilfe schafft zum Beispiel die Dehnübung so abzuändern, dass die Muskeln nicht verkettet sind, falls das möglich ist. Ansonsten muss der zu dehnende Muskel ohne Hilfe des Dehngefühls lokalisiert werden.
 
-## Schmerz ##
+### Schmerz ###
 
 Beim Dehnen werden wir bisweilen Schmerzen haben. Dieser Schmerz kann ein gutes Zeichen sein, wenn wir beispielsweise gerade unsere Faszien in die Länge ziehen. Er kann aber auch ein sehr schlechtes Zeichen sein, wenn wir beispielsweise unsere Sehnen dehnen statt den Muskel. In jedem Fall ist er hilfreich, weil er uns wichtige Informationen liefert.
 
@@ -137,25 +140,25 @@ Nerven, die gedehnt werden, reagieren nicht unbedingt mit Schmerz, sondern auch 
 
 Schmerzen haben auch negative Effekte auf das Dehnen. Denn zum einen trübt ein starker Schmerz die Wahrnehmung für den Muskel, so wie es ein helles Licht tut, von dem man geblendet wird. Andererseits lösen Schmerzen im Körper den Reflex aus, der Ursache entgegenzuwirken, was zur unwillkürlichen Anspannung des zu dehnden Muskels führen kann. Außerdem setzen Schmerzen den Körper in Alarmbereitschaft und aktivieren den Sympathikus. Zu starker Schmerz hemmt also massiv den Dehnfortschritt und sollte unbedingt vermieden werden.
 
-## Unterstützende Kräfte ##
+### Unterstützende Kräfte ###
 
-Üblicherweise verwenden wir äußere Kräfte, um unsere Dehnposition zu erreichen. Die gängigste ist sicherlich die Schwerkraft. Alternativ kann man Stützkraft aus anderen Bereichen der Körpers verwenden, oder einen Partner (nicht empfehlenswert, da nur indirekte Kontrolle, was den Lernprozess massiv verlangsamt). Die wichtigste Methode ist jedoch, den Antagonisten einzusetzen.
+Üblicherweise verwenden wir äußere Kräfte, um unsere Dehnposition zu erreichen. Die gängigste ist sicherlich die Schwerkraft. Alternativ kann man Stützkraft aus anderen Bereichen der Körpers verwenden, oder einen Partner (nicht empfehlenswert, da nur indirekte Kontrolle, was den Lernprozess massiv verlangsamt). Unsere Motorik wird äußeren Kräften jedoch reflexhaft entgegenwirken und die zu dehnende Muskulatur fest machen. Davon ausgenommen ist noch am ehesten der Antagonist.
 
 Da der Antagonist eine zentrale Rolle spielt, sollte ihm die Hauptaufgabe beim Erreichen der Dehnposition zu kommen. Jedoch gibt es da Grenzen, denn häufig ist der Antagonist zu schwach, um die Position zu halten, was zu Krämpfen führen kann. Insbesondere wenn andere Kräfte dem Antagonisten entgegenwirken, beispielsweise die Schwerkraft. Der Antagonist muss in dem Fall unterstützt werden.
 
-Andererseits kann der Antagonist in einigen Fällen auch sehr stark sein, oder durch die Schwerkraft derart unterstützt werden, dass die zu dehnende Muskulatur sofort die Paniklänge überschreitet und fest wird (Halsmuskulatur). In dem Fall sollte eine stützdende Kraft dem Antagonisten entgegen wirken (zum Beispiel durch Gegendruck mit der Hand).
+Andererseits kann auch der Antagonist in einigen Fällen zu stark sein. In dem Fall sollte eine stützdende Kraft dem Antagonisten entgegen wirken (zum Beispiel durch Gegendruck mit der Hand).
 
 Ob und wie wir unterstützende Kräfte einsetzen, hängt also davon ab, wie stark der Antagonist ist und wie die Schwerkraft in die Dehnung involviert ist. Optimal ist es, wenn die zur Dehnung eingesetzten Kräfte minimiert werden, auch die des Antagonisten. Denn je größer die eingesetzte Kraft ist, desto geringer ist unser Feingefühl.
 
 Abschließend sollte dazu noch gesagt werden, dass es hilfreich ist, wenn unsere gesamte Körperhaltung möglichst entspannt und schmerzfrei ist. Das erlaubt es, die Position ohne Ablenkung lange aufrecht zu erhalten.
 
-## Vorbereitung und Nacharbeit ##
+### Vorbereitung und Nacharbeit ###
 
 Grundsätzlich erfordert achtsames Dehnen kein Aufwärmen. Wer sich sehr aktiviert fühlt, sollte seinen Parasympathikus aktivieren, z.B. durch eine entspannende Atmsphäre, ruhiges Liegen für einige Minuten und Konzentration auf eine ruhige Atmung (im Yoga wird dies **Shavasana** genannt). Wer darüber hinaus verspannt ist, sollte sich vor dem Dehnen lockern (siehe dort).
 
 Während des Dehnens werden einige Muskeln aufgrund des langen Haltens der Positionen stark belastet. Das sind zum einen die Antagoisten der gedehnten Muskulatur und außerdem die Stützmuskeln, die wir zum Aufrechterhalten der Position verwenden (Rücken!). Daher sollten diese Muskeln nach dem Dehnen gelockert werden.
 
-## Zeit ##
+### Zeit ###
 
 Eine Dehnposition sollte lange genug gehalten werden, um sich mit den beteiligten Muskeln eingehend beschäftigen zu können. Jedoch sollte sie auch nicht so lange gehalten werden, dass es zu intensiven Schmerzen kommt. Wenn die Dehnposition anfängt unangenehm zu werden, lässt auch unsere Fähigkeit nach, uns zu entspannen. Als grobe Richtlinie würde ich eine bis fünf Minuten angeben.
 
@@ -167,7 +170,7 @@ Da bei korrekter Anwendung des achtsamen Dehnens keine langfristigen Schmerzen z
 
 Es ist sinnvoll, sich über einen längeren Zeitraum auf wenige bestimmte Dehnungen zu fokussieren. Dadurch wird jede einzele Position intensiver geübt, was den Fortschirtt potenziert. Das Pausieren einer Dehnung führt, wenn man einen gewissen Erfolg erzielt hat, nicht dazu, dass wir sie schnell wieder verlernen. Es scheint sogar, dass nach einer längeren Zeit des Trainings (10 Sessions), ein Aussetzen des Trainings für einige Zeit (10 Tage) einen förderlichen Effekt haben kann.
 
-## Wandel ##
+### Wandel ###
 
 Da Wiederholung ein zentraler Bestandteil des achtsamen Dehnens ist, ist es hilfreich, ein konstante individuelle Dehnroutine zu entwickeln. Es gibt jedoch verschiedene Gründe, dieses Programm mit der Zeit abzuwandeln. Zum einen liefern verschiedene Dehnungpositionen zur gleichen Muskulatur unterschiedliche Ansichten, was unser Verständnis verbessert und verborgene Dinge sichtbar werden lässt.
 
@@ -175,11 +178,11 @@ Mit unserem Fortschritt werden wir aber auch feststellen, dass sich unsere Baust
 
 Jeder Muskel ist anders. Daher müssen wir uns klar machen, dass wir nicht erwarten können, dass das Gefühl in dem einen Muskel dem Gefühl in einem anderen gleicht. Und ebenso kann es sein, dass wir in unterschiedlichen Körperregionen beim Dehnen unterschiedlich vorgehen müssen.
 
-## Intuitive Bewegung ##
+### Intuitive Bewegung ###
 
 Wer bis hier gelesen hat, mag von den Komplexität der Methode durchaus überfordert sein. Das klassische Dehnen ist im Vergleich dazu sehr stupide. Außerdem sind die Ziele, nämlich das bewusste Spüren und Kontrollieren jedes einzelnen Muskels sehr hoch gesteckt und der Weg dorthin ist sicherlich sehr weit. Ein vollständiges Erreichen dieses Ziels ist jedoch nicht notwendig und gerade die Komplexität der Methode kann als ihre wahre Stärke verstanden werden. Denn was sich als analytische Lernmethode tarnt, entpuppt sich in Wahrheit als spielerische: Durch die fortwährende Beschäftigung unseres Geistes mit den beteiligten Muskeln erlernt unser Kleinhirn quasi an unserem Bewusstsein vorbei, die sehr viel feinere Wahrnehmung und Kontrolle der Muskulatur. Unsere Intuition lernt quasi nebenbei mit. Da unsere neu erlernten Bewegungen am Ende auch intuitiv funktionieren sollen, stellt sich das sogar als das wahre Ziel des Trainings heraus. Das bewusste Verstehen ist dabei nur ein Mittel, um die Intuition auf die richtige Spur zu bringen. Je weiter wir in unserem Training fortschreiten, desto mehr können wir die Lernmethode ins spielerische verschieben.
 
-## Verinnerlichen des Bewegungsablaufs ##
+### Verinnerlichen des Bewegungsablaufs ###
 
 Bisher habe ich Techniken beschrieben, um unsere Beweglichkeit in bestimmten Dehnhaltungen zu erhöhen. Wenn wir diese Beweglichkeit einsetzen wollen, muss sie jedoch in dynamischen Bewegungsabläufen zur Verfügung stehen.
 
@@ -195,7 +198,9 @@ Wir wollen, dass unsere gesteigerte Beweglichkeit in Phasen hoher Aktivität zur
 
 Das Entspannen des Muskels muss dem Inkorporieren der Bewegung vorangehen. Das heißt jedoch nicht, dass ein Inkorporieren des bisher Erreichten beim weiteren Entspannen nicht hilfreich wäre. Daher ist es sicherlich sinnvoll, beide Stufen des Dehnens im Wechsel zu trainieren.
 
-## Gefahren des Dehnens ##
+## Weitere Aspekte ##
+
+### Gefahren des Dehnens ###
 
 Dehnen ist nicht in jeder Hinsicht sinnvoll, sondern birgt auch Probleme. Das wichtigste Problem besteht vor allem bei Menschen, deren Gelenke instabil sind. Der durch den Panikreflex eingeschränkte Bewegungsbereich der Gelenke bewirkt ein schnelleres Reagieren der Muskulatur auf Gefahrensituationen wie Fehltritte oder Stöße, die ansonsten zur Beschädigung der Bänder oder zur Ausrenkung führen könnten. Da durch Dehnen dieser Reflex erst bei größerer Länge einsetzt, steigt auch das Verletzungsrisiko. Abhilfe schafft regelmäßiges stabilisierendes Krafttraining und hochdynamische Belastung zur Reduzierung der Reaktionszeit von Gehirn und Muskel.
 
@@ -203,7 +208,7 @@ Ebenso ernst zu nehmen sind Fehler in der Haltung der Dehnposition. Da die Posit
 
 Häufiges Dehnen, bei dem z.B. Sehnen gereizt werden, kann zu langfristigen Entzündungen führen. Daher ist es sinnvoll auf sein Schmerzempfinden zu hören, die Dehnung wenn nötig abzuwandeln oder für einige Zeit zu pausieren, wenn Schmerzen auftreten.
 
-## Nutzen
+### Nutzen ###
 
 Auf der anderen Seite ist achtsames Dehnen aber auch von gutem Nutzen. In erster Linie natürlich aufgrund der verbesserten Beweglichkeit, die uns neue Bewegungen ermöglicht.
 
@@ -215,7 +220,7 @@ Eine Besonderheit des achtsamen Dehnens ist es, dass es unsere Körperwahrnehmun
 
 Da das achtsame Dehnen einen meditativen Charakter hat, können viele Effekte der Meditation, wie zum Beispiel Stressreduktion (Stress ist die wichtigste Zivilisationskrankheit unserer Zeit), auf das Dehnen übertragen werden.
 
-## Lockern
+### Lockern ###
 
 Nach einer Anstregung oder monotonen Belastung, z.B. gekrümmter Sitzhaltung, haben unsere Muskeln einen erhöhten Tonus. Dieser baut nicht unbedingt restlos ab, wenn die Belastung nachlässt. Lockern dient dazu der Reduzierung des Tonus etwas nachzuhelfen. Es kann auch dazu dienen eine Dehnsession vorzubereiten.
 
@@ -225,7 +230,7 @@ Um eine längerfristige Erholungsphase einzuleiten, z.B. nach einem Arbeitstag o
 
 Das eigentliche Lockern ist dann eine reduzierte Version des achtsamen Dehnens. Da es nicht um eine Erweiterung der Beweglichkeit geht, reicht es aus, die Positionen deutlich kürzer zu halten. Die Positionen werden statisch gehalten und der Antagonist wird nicht in die Übung integriert. Auch der Geist ist weniger konzentriert.
 
-## Motivation
+### Motivation ###
 
 Ein zentrales Problem, das in häufigen Fällen Erfolg beim Dehnen verhindert, ist dessen erforderliche Regelmäßigkeit. Diese setzt hohe Motivation voraus. Hier werde ich ein paar Tricks beschreiben.
 
@@ -240,3 +245,11 @@ Der Untergrund spielt eine entscheidende Rolle, da wir uns zum Dehnen auf den Bo
 Pawlow hat es uns gezeigt: wir sind alle konditionierbare Hunde. Wer sich nach dem Dehnen mit etwas Angenehmen belohnt, wird sich beim nächsten Mal schon auf das Dehnen freuen. Für mich war allerdings bereits das wohlige Entspannungsgefühl Belohnung genug.
 
 Wenn alles nichts hilft, hilft es auch nicht, sich zu zwingen. Kein Bock, keine Entspannung. Nicht Disziplin, sondern Motivation ist erforderlich. Ein Zwang konditioniert uns negativ. In dem Fall einfach mal Pause machen - und sich entspannen :)
+
+### Andere Arten des Dehnens ###
+
+#### Ballistisches Dehnen ####
+
+Einige Sportler verwenden **federndes Dehnen** oder auch **ballistisches Dehnen** zur Aufwärmung vor dem Sport. Durch die rhythmische Kontraktion wird der Muskel aktiviert, wodurch der Ruhetonus heraufgesetzt und damit das Verletzungsrisiko reduziert wird.
+
+Es hat sich gezeigt, dass ballistisches Dehnen vor allem unter Profis verwendet wird, um außerordentliche Beweglichkeit zu erreichen. Jedoch wird auch darauf hingewiesen, dass die Methode ein hohes Verletztungsrisiko birgt.
