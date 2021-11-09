@@ -2,11 +2,14 @@
 layout: post
 title:  Animal Walks
 image:  animal_walks.jpg
+show_splash: false
 tags:   Artist
 toc:    true
 ---
 
 Vor einigen Jahren habe ich zusammen mit einem Oisìn Haywood, inspiriert durch die *Movement Culture*, mit einem neuen Aufwärmtraining begonnen, den *Animal Walks*. Seitdem sind sie zu einem essentiellen Bestandteile meines Trainings geworden. Ich habe neue Formen entworfen, das Konzept überarbeitet und hin und wieder neue Gedanken zum Thema hervorgebracht. Und ich habe enorm profitiert. Einem Bekannten gegenüber habe ich vor kurzem gesagt, Animal Walks haben meine Lebensqualität verbessert, wie kein anderes Training vorher.
+
+![animal walks]({{site.baseurl}}/images/animal_walks.jpg)
 
 Ich möchte mein Erfahrungen zu Animal Walks mit euch teilen und euch meine Walks vorstellen.
 

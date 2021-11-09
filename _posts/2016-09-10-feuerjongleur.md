@@ -2,11 +2,15 @@
 layout: post
 title:  Feuerjongleur
 image:  feuer/panprojekt1.jpg
+show_splash: false
 tags:   Artist
 toc:    true
 ---
 
+
 Eine Ära geht für mich zu Ende. Der letzte Brennstoff ist verbrannt, Tools und Kostüme sind zerschlissen. Pan Projekt gehört nun der Vergangenheit an. Es war Teil einer Serie von Projekten zur Feuerjonglage, deren Teil ich war. Einige davon habe ich hier beschrieben.
+
+![panprojekt1]({{site.baseurl}}/images/feuer/panprojekt1.jpg)
 
 ## Pan Projekt ##
 

@@ -30,7 +30,7 @@ layout: default
   </div>
 
   {% assign no-image = nil %}
-  {% if page.image %}
+  {% if page.image and page.show_splash %}
   <div class="post__head">
     <div class="row">
       <div class="col col-8 push-2 col-t-10 push-t-1 col-m-12 push-m-0">
