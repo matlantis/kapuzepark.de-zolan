@@ -15,9 +15,9 @@ Ich möchte mein Erfahrungen zu Animal Walks mit euch teilen und euch meine Walk
 
 ## Wie funktionieren Animal Walks? ##
 
-Animal Walks sind Tierbewegungen, klar. Aber um einem häufigen Missverständnis vorzubeugen: die Walks haben Tiernamen erhalten, weil sie an Tiere erinnern, und nicht andersherum. Was ich in meinem Training nicht mache, ist die Bewegung von Tieren zu imitieren, oder sich gar in sie hineinzuversetzen. Das ist ein anderes Konzept, das durchaus seine Berechtigung hat, zum Beispiel in spielerischem Kontext oder zur Bewegungsexploration. In meinen Animal Walks steht jedoch der physische Trainingseffekt an erster Stelle. 
+Animal Walks sind Tierbewegungen, klar. Aber um einem häufigen Missverständnis vorzubeugen: die Walks haben Tiernamen erhalten, weil sie an Tiere erinnern, und nicht andersherum. Was ich in meinem Training nicht mache, ist die Bewegung von Tieren zu imitieren, oder sich gar in sie hineinzuversetzen. Das ist ein anderes Konzept, das durchaus seine Berechtigung hat, zum Beispiel in spielerischem Kontext oder zur Bewegungsexploration. In meinen Animal Walks steht jedoch der physische Trainingseffekt an erster Stelle.
 
-Erstmal brauchst du genügend Platz. Am besten eine Wiese oder einen großen Trainingsraum. Wenn du auf der Wiese bist, solltet du dir nicht zu schade sein, dich schmutzig zu machen. Zum Anfang kannst du dir eine Strecke abstecken, die du in der jeweiligen Gangart zurücklegst, je nachdem wie fit du dich fühlst zwischen fünf und zehn Metern. Ob du zwischen den Walks eine Pause machst, ist Dir überlassen. Ich empfehle dir jedoch, gerade am Anfang die Bewegungen erst einem kennenzulernen, bevor du dich verausgabst. 
+Erstmal brauchst du genügend Platz. Am besten eine Wiese oder einen großen Trainingsraum. Wenn du auf der Wiese bist, solltet du dir nicht zu schade sein, dich schmutzig zu machen. Zum Anfang kannst du dir eine Strecke abstecken, die du in der jeweiligen Gangart zurücklegst, je nachdem wie fit du dich fühlst zwischen fünf und zehn Metern. Ob du zwischen den Walks eine Pause machst, ist Dir überlassen. Ich empfehle dir jedoch, gerade am Anfang die Bewegungen erst einem kennenzulernen, bevor du dich verausgabst.
 
 Das Training, so wie ich es in diesem Artikel beschreibe, ist ein Aufwärmtraining. Dennoch kannst du natürlich dein eigenes Warmup voran stellen. Eine Sache sollte jedoch dem Animal Walk Training immer voraus gehen: Handgelenksmobilisation. Dazu gibt es verschiedene Formen, hier möchte ich beispielhaft nur eine erwähnen. Verschränke deine Hände fest und führe mit ihnen eine Acht aus, indem du die Hände zur Seite drehst, dann die obere Hand nach vorne schiebst, zur anderen Seite drehst und wieder die obere Hand nach vorne schiebst. Mache das etwa eine Minute lang und nutze deinen Beweglichkeitsspielraum komplett aus.
 
@@ -35,7 +35,7 @@ Das Konzept darf jedoch auch noch weiter aufgefasst werden. Wenn du die Walks an
 
 Auf den ersten Blick wirken viele Animal Walks simpel und du wirst glauben sie problemlos nachmachen zu können und in den meisten Fällen genügt tatsächlich kurzes Beobachten, um den Walk nachmachen zu können. Wenn man sich jedoch vergegenwärtigt, dass selbst statische Positionen, wie sie im Yoga vorkommen äußerst komplex sind und Bewegungen im Allgemeinen um einiges komplexer sind als statische Positionen, erkennt man, dass für eine gute Ausführung viele Details geklärt werden müssen.
 
-Die Frage ist also, wie theoretisch du an die Animal Walks herangehen solltest. Meine Antwort dazu ist naheliegend. Übe die Animal Walks erst einmal ohne Theorie. Schau dir die Bewegung an und lies dir den Text dazu durch, der ein paar grundlegende Bemerkungen enthält, um Fehler zu vermeiden. Dann versuche sie nachzumachen und vertrau deiner Motorik dass sie die Bewegung jedesmal, wenn du sie machst, etwas geschmeidiger und effizienter ausführt. Je mehr Sicherheit du in der Bewegung gefunden hast, desto mehr kannst du sie dir bewusst machen und an den Details arbeiten. 
+Die Frage ist also, wie theoretisch du an die Animal Walks herangehen solltest. Meine Antwort dazu ist naheliegend. Übe die Animal Walks erst einmal ohne Theorie. Schau dir die Bewegung an und lies dir den Text dazu durch, der ein paar grundlegende Bemerkungen enthält, um Fehler zu vermeiden. Dann versuche sie nachzumachen und vertrau deiner Motorik dass sie die Bewegung jedesmal, wenn du sie machst, etwas geschmeidiger und effizienter ausführt. Je mehr Sicherheit du in der Bewegung gefunden hast, desto mehr kannst du sie dir bewusst machen und an den Details arbeiten.
 
 ## Handgelenksposition ##
 
@@ -122,7 +122,7 @@ Der Zombie dient zur Lockerung des Rückens. Beuge die Beine etwas und lass den 
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/seacucumber_annica_360x202.mp4" playsinline> </video>
 
-Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es weiter seitwärts und lass dich von seinem Gewicht ziehen, so dass du auf den Bauch rollst. Erzeuge Streckung in Oberkörper, in dem der gegenüber liegende Arm als Gegengewicht fungiert. Wenn du auf dem Bauch liegst, dreht sich zuerst dein Oberkörper und zieht dein Bein hinterher. Vergiß den Richtungswechsel nicht! Genieße die Dehnung und bleibe am Ende auf dem Rücken liegen und laß die Anspannung aus deinem Körper fließen. 
+Wenn du auf dem Rücken liegst, schlage ein Bein über das andere, schiebe es weiter seitwärts und lass dich von seinem Gewicht ziehen, so dass du auf den Bauch rollst. Erzeuge Streckung in Oberkörper, in dem der gegenüber liegende Arm als Gegengewicht fungiert. Wenn du auf dem Bauch liegst, dreht sich zuerst dein Oberkörper und zieht dein Bein hinterher. Vergiß den Richtungswechsel nicht! Genieße die Dehnung und bleibe am Ende auf dem Rücken liegen und laß die Anspannung aus deinem Körper fließen.
 
 ## Extended Series
 
@@ -196,7 +196,7 @@ Die Bewegung ist wie üblich kreuzweise. Du kannst das Knie auf dem hinteren Ell
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/leopard_martin_360x202.mp4" playsinline> </video>
 
-Auch diese Bewegung ist kreuzweise. Stütze dein Körpergewicht über die Ellbogen. Wenn du nach vorne greifst, setze zu erst die Hand auf, dann folgt der Ellbogen. Wenn der andere Arm vorgeht, hebt sich der Ellbogen des hinteren Arms und das Knie auf der gleichen Seite zieht vor bis zum Ellbogen. 
+Auch diese Bewegung ist kreuzweise. Stütze dein Körpergewicht über die Ellbogen. Wenn du nach vorne greifst, setze zu erst die Hand auf, dann folgt der Ellbogen. Wenn der andere Arm vorgeht, hebt sich der Ellbogen des hinteren Arms und das Knie auf der gleichen Seite zieht vor bis zum Ellbogen.
 
 ### Löwe
 
@@ -250,7 +250,7 @@ Gehe in den Vierfüßlerstand, Knie weg vom Boden. Hebe ein Bein an und setze es
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/storck_martin_360x202.mp4" playsinline> </video>
 
-Halte den Rücken gerade, so dass die Bewegung aus der Dehnung der Hamstrings resultiert. 
+Halte den Rücken gerade, so dass die Bewegung aus der Dehnung der Hamstrings resultiert.
 
 ## Sprünge
 
@@ -308,7 +308,7 @@ Stelle dir vor, dein Körper wäre eine abgebrannte Zigarette die bei der leises
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/bug_liane_360x202.mp4" playsinline> </video>
 
-Versuche für den Käfer zu Beginn erst einmal mit halb angewinkelten Beinen eine flüssige Bewegung zu erreichen. Entspanne der Arme während du sie über den Kopf führst. Wenn du dich auf deine Knie ziehst, ziehe das Knie des unteren Beins eng an die Brust und nutze das Gewicht des oberen Beins als Schwung. 
+Versuche für den Käfer zu Beginn erst einmal mit halb angewinkelten Beinen eine flüssige Bewegung zu erreichen. Entspanne der Arme während du sie über den Kopf führst. Wenn du dich auf deine Knie ziehst, ziehe das Knie des unteren Beins eng an die Brust und nutze das Gewicht des oberen Beins als Schwung.
 
 ### Krokodil
 
