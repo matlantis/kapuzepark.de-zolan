@@ -16,9 +16,9 @@ Vielleicht sind dir einige Dinge, zum Beispiel die beschriebenen Dehnübungen od
 
 ## Bereite dich vor ##
 
-Das wichtigste: Nimm dir Zeit und Ruhe! Mindful Stretching ist keine schnelle Nummer und du wirst sehen wie am Ende die Zeit wie im Fluge vergeht. Pro Dehnübung solltest du etwa 15-20 min Zeit einplanen.
+Das wichtigste: Nimm dir Zeit und Ruhe! Mindful Stretching ist keine schnelle Nummer und du wirst sehen wie am Ende die Zeit wie im Fluge vergeht. Pro Dehnübung solltest du etwa 15-20 Minuten Zeit einplanen.
 
-Du benötigst eine angenehme rutschfeste Unterlage, auf der du nicht wegrutschst, wie zum Beispiel einen Teppich, oder eine Yogamatte. Außerdem ein größeres Handtuch und einen Stuhl.
+Du benötigst eine angenehme rutschfeste Unterlage, wie zum Beispiel einen Teppich, oder eine Yogamatte. Außerdem ein größeres Handtuch und einen Stuhl.
 
 Du kannst gerne entspannende Musik anschalten, aber achte darauf, dass sie nicht aktivierend auf dich wirkt. Wenn das Licht etwas gedimmt ist, ist das auch hilfreich.
 
