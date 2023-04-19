@@ -112,6 +112,7 @@ Beim Ausfallschritt der Gottesanbeterin bleibt das Knie senkrecht über dem Knö
 
 Die Beine des Elefanten bleiben gestreckt. Gehe mit den Händen daher entsprechend weit nach vorne, die Fersen müssen nicht den Boden berühren. Lasse den Kopf hängen, am besten siehst du bei der Bewegung zwischen den Beinen nach hinten.
 
+Wenn du noch nicht die nötige Beweglichkeit hast, kannst du die Beine auch leicht anwinkeln, wenn du nach vorne setzt (*Mammut*).
 ### Zombie ###
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/zombie_martin_360x202.mp4" playsinline> </video>
@@ -133,6 +134,8 @@ Die Extended Series bietet dir eine Sammlung von Walks zu verschiedenen Bereiche
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/ant_annica_360x202.mp4" playsinline> </video>
 
 Für die Ameise achte als erstes darauf, dass du deine Brust öffnest, also deine Schultern nach hinten und unten ziehst. Dann hebe die Hüfte so hoch wie du kannst. Sei vorsichtig mit den Handgelenken.
+
+Als Aufwärmvariante kannst du auch die *Termite* machen, bei der du den Po komplett hängen lässt.
 
 ### Tibetische Mönch
 
@@ -246,11 +249,39 @@ Um zu verhindern, dass du die Beweglichkeit aus der Lendenwirbelsäule holst, zi
 
 Gehe in den Vierfüßlerstand, Knie weg vom Boden. Hebe ein Bein an und setze es außerhalb den anderen Beins auf den Boden. Hebe den gleichseitigen Arm strecke ihn nach vorne. Rotiere jetzt den Oberkörper, halten den Arm nach vorne gestreckt und senke ihn am Ende außerhalb den anderen Arms wieder ab. Du solltest jetzt in Ameisenposition mit hoch erhobener Hüfte sein. Drücke dich während der Drehung aktiv aus der Schulter.
 
+Mit gestreckten Beinen (Purvottanasana) heißt das dann *Gespenstschrecke*.
+
 ### Storch
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/storck_martin_360x202.mp4" playsinline> </video>
 
 Halte den Rücken gerade, so dass die Bewegung aus der Dehnung der Hamstrings resultiert.
+
+### Dugong
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/dugong_martin_360x202.mp4" playsinline> </video>
+
+Halte das äußere Sitzbein so lange wie möglich auf dem Boden, während du zur Seite greifst. Aktiviere den Bauch, während du durch die Kobra gehst. Schiebe die Hüfte Richtung Boden, während du dich in den Sitz schiebst.
+
+### Schleichkatze
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/schleichkatze_ute_360x202.mp4" playsinline> </video>
+
+### Trappe
+
+Die Trappe ist was für Klettererhände.
+
+### Seeleopard
+
+Trainiere deine Hüfte.
+
+### Giraffe
+
+Grätschgang.
+
+### Fisch
+
+Krabbele auf dem Rücken liegend.
 
 ## Sprünge
 
@@ -316,6 +347,10 @@ Versuche für den Käfer zu Beginn erst einmal mit halb angewinkelten Beinen ein
 
 Der zentrale Moment beim Krokodil ist der Weight-Shit von einer Schulter auf die andere. Halte die Schulter tief nahe bei der stützenden Hand.
 
+Das Krokodil geht auch gekreuzt und heißt dann *Waran*.
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/inverted_lizard_martin_360x202.mp4" playsinline> </video>
+
 ### Croissant
 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/croissant_incr_liane_360x202.mp4" playsinline> </video>
@@ -346,7 +381,7 @@ Hebe einen Fuß nach vorne an. Beuge das andere Knie bis du komplett in der Hock
 
 Gehe in die Hocke und greife mit beiden Händen nach vorne. Halte die Arme komplett gestreckt und springe mit den Beinen zu deinen Händen. Je nach Variation kannst du dabei nur einen minimalen Sprung machen, den Po möglichst hoch bringen oder durch den Handstand gehen.
 
-Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, das du dir von einem Handstand Lehrer erfragen solltest.
+Als Handstand Vorübung erfordert dieser Walk viel technisches Know-How, das du dir von einem Handstand Lehrer erfragen solltest (*Stier*).
 
 ### Seelöwe
 
@@ -377,3 +412,36 @@ Halte die Arme so gestreckt wie möglich. Achte darauf, dass dein unterer Bauch 
 <video autoplay controls loop muted src="{{site.baseurl}}/images/walks/worm_martin_360x202.mp4" playsinline> </video>
 
 Der Schlüsselmoment ist das Anheben des unteren Bauchs über die Bauchmuskulatur.
+
+### Lurch
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/lungenfisch_zoltan_360x202.mp4" playsinline> </video>
+
+Kreuzbein nach oben ziehen, aus den Schultern herausdrücken.
+
+### Orang Utan
+
+Schwing dich durch die Halle.
+
+### Pfau
+
+Im Yoga heißt das Pfau, aber ich finde, es sollte *Kaulquappe* heißen. Wärme die Handgelenke vorher auf und drehe die Hände bei der Übung nach hinten. Lege Anfangs deinen Kopf vorne ab, bevor du die Beine hebst.
+
+Geht auch als Einarmer.
+
+### Maikäfer
+
+Das ist sowas wie ein Helikopter im Stehen.
+
+## Spaß
+
+### Fliegender Elefant
+
+<video autoplay controls loop muted src="{{site.baseurl}}/images/walks/flying_elephant_ute_360x202.mp4" playsinline> </video>
+
+Go for it!
+
+### Betrunkener Adler
+
+We will never forget 😄.
+
