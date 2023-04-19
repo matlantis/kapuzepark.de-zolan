@@ -5,3 +5,5 @@ gem "jekyll-paginate"
 gem "jekyll-tagging"
 gem "jekyll-sitemap"
 gem "jekyll-toc"
+
+gem "webrick", "~> 1.8"
